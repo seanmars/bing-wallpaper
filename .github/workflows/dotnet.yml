@@ -1,0 +1,38 @@
+name: .NET
+
+on:
+  schedule:
+    - cron: "0 9,17 * * *"
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 5.0.x
+      - name: Restore dependencies
+        run: dotnet restore
+      - name: Build
+        run: dotnet build --no-restore
+      - name: Run
+        run: dotnet run --no-build
+      - name: Commit files
+        run: |
+          git config --local user.email "mars0222@gmail.com"
+          git config --local user.name "seanmars"
+          git add README.md
+          git add data.json
+          git commit -m "update today image"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN  }}
+          branch: main
