@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using AngleSharp;
 using AngleSharp.Io;
 using BingWallpaper.Model;
+using Flurl;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 
@@ -64,13 +65,13 @@ namespace BingWallpaper.Services
                 var queryRf = rf.First();
                 var targetId = queryId.Replace(queryRf.Split('_')[1], "UHD");
 
-                var uriForOrigin = _bingUrl.AppendPathSegment(uri.AbsolutePath)
+                var uriForOrigin = _bingUrl.Reset().AppendPathSegment(uri.AbsolutePath)
                     .SetQueryParams(new
                     {
                         id = queryId
                     })
                     .ToUri();
-                var uriFor4K = _bingUrl.AppendPathSegment(uri.AbsolutePath)
+                var uriFor4K = _bingUrl.Reset().AppendPathSegment(uri.AbsolutePath)
                     .SetQueryParams(new
                     {
                         id = $"{targetId}.{ext}"
