@@ -64,7 +64,13 @@ namespace BingWallpaper.Services
                 var queryRf = rf.First();
                 var targetId = queryId.Replace(queryRf.Split('_')[1], "UHD");
 
-                var finalUri = _bingUrl.AppendPathSegment(uri.AbsolutePath)
+                var uriForOrigin = _bingUrl.AppendPathSegment(uri.AbsolutePath)
+                    .SetQueryParams(new
+                    {
+                        id = queryId
+                    })
+                    .ToUri();
+                var uriFor4K = _bingUrl.AppendPathSegment(uri.AbsolutePath)
                     .SetQueryParams(new
                     {
                         id = $"{targetId}.{ext}"
@@ -75,7 +81,7 @@ namespace BingWallpaper.Services
                 if (downloadImage)
                 {
                     var httpClient = _httpClientFactory.CreateClient();
-                    var response = await httpClient.GetAsync(finalUri, cancellationToken);
+                    var response = await httpClient.GetAsync(uriFor4K, cancellationToken);
                     response.EnsureSuccessStatusCode();
 
                     stream = await response.Content.ReadAsStreamAsync(cancellationToken);
@@ -84,7 +90,8 @@ namespace BingWallpaper.Services
                 return new FileContent
                 {
                     FileName = fileName,
-                    Url = finalUri.ToString(),
+                    UrlForOrigin = uriForOrigin.ToString(),
+                    UrlFor4K = uriFor4K.ToString(),
                     Stream = stream
                 };
             }

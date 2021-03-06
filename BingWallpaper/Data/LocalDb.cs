@@ -37,7 +37,7 @@ namespace BingWallpaper.Data
         {
             return Data.Images.Any(i =>
                 i.Date.Date == bingImage.Date.Date ||
-                i.Url == bingImage.Url);
+                i.UrlFor4K == bingImage.UrlFor4K);
         }
 
         public async Task SaveData()
@@ -68,7 +68,8 @@ namespace BingWallpaper.Data
             var image = new BingImage
             {
                 Date = DateHelper.Today,
-                Url = fileContent.Value.Url
+                UrlForOrigin = fileContent.Value.UrlForOrigin,
+                UrlFor4K = fileContent.Value.UrlFor4K
             };
 
             if (IsExists(image))

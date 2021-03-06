@@ -97,7 +97,7 @@ namespace BingWallpaper.Services
             {
                 var item = items[idx - 1];
                 sb.Append('|')
-                    .AppendFormat("![]({0})<br />[Download {1}]({0})", item.Url, DateHelper.Format(item.Date));
+                    .AppendFormat("![]({0})<br />[Download {1}]({2})", item.UrlForOrigin, DateHelper.Format(item.Date), item.UrlFor4K);
 
                 if (idx % column == 0)
                 {
@@ -119,8 +119,8 @@ namespace BingWallpaper.Services
         {
             var generator = new MarkdownGenerator();
             return generator.AddH1(title)
-                .AddParagraph($"![]({data.Today.Url})")
-                .AddParagraph($"[Download Today]({data.Today.Url})")
+                .AddParagraph($"![]({data.Today.UrlForOrigin})")
+                .AddParagraph($"[Download Today]({data.Today.UrlFor4K})")
                 .AddTable(3, data.Images);
         }
 
