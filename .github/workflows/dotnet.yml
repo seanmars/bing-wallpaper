@@ -23,7 +23,7 @@ jobs:
       - name: Build
         run: dotnet build --no-restore
       - name: Run
-        run: dotnet run --no-build
+        run: dotnet run --no-build --project /BingWallpaper/BingWallpaper.csproj
       - name: Commit files
         run: |
           git config --local user.email "mars0222@gmail.com"
