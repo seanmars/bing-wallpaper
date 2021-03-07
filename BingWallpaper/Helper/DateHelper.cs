@@ -9,6 +9,8 @@ namespace BingWallpaper.Helper
             return dateTime.ToString("yyyy-MM-dd");
         }
 
-        public static DateTime Today => DateTime.UtcNow;
+        public static DateTime Today => DateTime.UtcNow.Date;
+
+        public static DateTime Now => DateTime.UtcNow;
     }
 }

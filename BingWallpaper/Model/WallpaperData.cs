@@ -1,10 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace BingWallpaper.Model
 {
     public class WallpaperData
     {
+        public DateTime LastFetchTime { get; set; }
         public BingImage Today { get; set; }
         public List<BingImage> Images { get; set; }
 

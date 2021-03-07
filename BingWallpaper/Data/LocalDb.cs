@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
@@ -42,6 +43,8 @@ namespace BingWallpaper.Data
 
         public async Task SaveData()
         {
+            UpdateLastFetchTime();
+
             var serializer = new JsonSerializer
             {
                 NullValueHandling = NullValueHandling.Ignore
@@ -94,6 +97,11 @@ namespace BingWallpaper.Data
         public void SetToday(BingImage image)
         {
             Data.Today = image;
+        }
+
+        public void UpdateLastFetchTime()
+        {
+            Data.LastFetchTime = DateHelper.Now;
         }
     }
 }

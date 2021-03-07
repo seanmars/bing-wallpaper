@@ -56,6 +56,7 @@ namespace BingWallpaper
             _db.AddTodayWallpaper(fileContent);
             var md = MarkdownGenerator.Create(_db.Data, "Wallpaper");
             await File.WriteAllTextAsync(_outputPath, md.ToMarkdown(), cancellationToken);
+
             await _db.SaveData();
         }
 
