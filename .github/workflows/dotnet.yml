@@ -2,7 +2,7 @@ name: .NET
 
 on:
   schedule:
-    - cron: "0 9,17 * * *"
+    - cron: "0 1,9,17 * * *"
 
 jobs:
   build:
