@@ -121,7 +121,7 @@ namespace BingWallpaper.Services
             return generator.AddH1(title)
                 .AddParagraph($"![]({data.Today.UrlForOrigin})")
                 .AddParagraph($"[Download Today]({data.Today.UrlFor4K})")
-                .AddTable(3, data.Images);
+                .AddTable(7, data.SortedImages);
         }
 
         public string ToMarkdown()
