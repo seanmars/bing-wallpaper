@@ -51,7 +51,12 @@ namespace BingWallpaper.Data
             };
 
             await using var sw = new StreamWriter(_dataSource);
-            using var writer = new JsonTextWriter(sw);
+            using var writer = new JsonTextWriter(sw)
+            {
+                Formatting = Formatting.Indented,
+                IndentChar = ' ',
+                Indentation = 2,
+            };
             serializer.Serialize(writer, Data);
         }
 
