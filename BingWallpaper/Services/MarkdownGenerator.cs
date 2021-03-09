@@ -120,7 +120,7 @@ namespace BingWallpaper.Services
             var generator = new MarkdownGenerator();
             return generator.AddH1(title)
                 .AddParagraph($"![]({data.Today.UrlForOrigin})")
-                .AddParagraph($"[Download Today]({data.Today.UrlFor4K})")
+                .AddParagraph($"[Download Latest Wallpaper]({data.Today.UrlFor4K})")
                 .AddTable(7, data.SortedImages);
         }
 

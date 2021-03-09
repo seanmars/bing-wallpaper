@@ -26,7 +26,7 @@ jobs:
           git config --local user.name "seanmars"
           git add README.md
           git add data.json
-          git commit -m "update today image"
+          git commit -m "update data"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
