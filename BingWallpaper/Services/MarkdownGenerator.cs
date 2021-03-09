@@ -97,7 +97,11 @@ namespace BingWallpaper.Services
             {
                 var item = items[idx - 1];
                 sb.Append('|')
-                    .AppendFormat("![]({0})<br />[Download {1}]({2})", item.UrlForOrigin, DateHelper.Format(item.Date), item.UrlFor4K);
+                    .AppendFormat("{0}<br />![]({1})<br />{2}<br />[Download]({3})",
+                        DateHelper.Format(item.Date),
+                        item.UrlForOrigin,
+                        item.Description,
+                        item.UrlFor4K);
 
                 if (idx % column == 0)
                 {

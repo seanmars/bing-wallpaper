@@ -7,5 +7,6 @@ namespace BingWallpaper.Model
         public DateTime Date { get; set; }
         public string UrlForOrigin { get; set; }
         public string UrlFor4K { get; set; }
+        public string Description { get; set; }
     }
 }

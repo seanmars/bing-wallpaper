@@ -26,7 +26,7 @@ namespace BingWallpaper.Services
             _httpClientFactory = httpClientFactory;
         }
 
-        private async ValueTask<string> FetchImageUrl(CancellationToken cancellationToken = default)
+        private async ValueTask<(string url, string description)> FetchImageInformation(CancellationToken cancellationToken = default)
         {
             var config = Configuration.Default
                 .WithDefaultLoader(new LoaderOptions
@@ -41,16 +41,20 @@ namespace BingWallpaper.Services
 
             var bgElement = document.Head.Children
                 .FirstOrDefault(element => element.Id == "preloadBg");
+            var infoElement = document.Body.QuerySelector("div#vs_cont > div.mc_caro > div > div.musCardCont > a.title");
 
-            return bgElement == null ? string.Empty : bgElement.GetAttribute("href");
+            var imageUrl = bgElement == null ? string.Empty : bgElement.GetAttribute("href");
+            var description = infoElement?.TextContent ?? string.Empty;
+
+            return (url: imageUrl, description: description);
         }
 
         public async Task<FileContent?> FetchAsync(bool downloadImage, CancellationToken cancellationToken = default)
         {
             try
             {
-                var imageUrl = await FetchImageUrl(cancellationToken);
-                var uri = new Uri(_bingUrl.ToUri(), imageUrl);
+                var (url, description) = await FetchImageInformation(cancellationToken);
+                var uri = new Uri(_bingUrl.ToUri(), url);
                 var queries = QueryHelpers.ParseQuery(uri.Query);
                 if (!queries.TryGetValue("id", out var id))
                 {
@@ -87,13 +91,13 @@ namespace BingWallpaper.Services
                     var httpClient = _httpClientFactory.CreateClient();
                     var response = await httpClient.GetAsync(uriFor4K, cancellationToken);
                     response.EnsureSuccessStatusCode();
-
                     stream = await response.Content.ReadAsStreamAsync(cancellationToken);
                 }
 
                 return new FileContent
                 {
                     FileName = fileName,
+                    Description = description,
                     UrlForOrigin = uriForOrigin.ToString(),
                     UrlFor4K = uriFor4K.ToString(),
                     Stream = stream

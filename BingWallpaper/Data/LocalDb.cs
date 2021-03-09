@@ -74,7 +74,8 @@ namespace BingWallpaper.Data
             {
                 Date = DateHelper.Today,
                 UrlForOrigin = fileContent.Value.UrlForOrigin,
-                UrlFor4K = fileContent.Value.UrlFor4K
+                UrlFor4K = fileContent.Value.UrlFor4K,
+                Description = fileContent.Value.Description
             };
 
             if (IsExists(image))
