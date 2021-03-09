@@ -2,12 +2,12 @@
 using System.IO;
 using System.Linq;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Threading;
 using System.Threading.Tasks;
 using AngleSharp;
 using AngleSharp.Io;
 using BingWallpaper.Model;
-using Flurl;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 
@@ -18,7 +18,7 @@ namespace BingWallpaper.Services
         private readonly ILogger<BingWallpaperFetcher> _logger;
         private readonly IHttpClientFactory _httpClientFactory;
 
-        private readonly Flurl.Url _bingUrl = new("https://www.bing.com/");
+        private readonly Flurl.Url _bingUrl = new("https://www.bing.com");
 
         public BingWallpaperFetcher(ILogger<BingWallpaperFetcher> logger, IHttpClientFactory httpClientFactory)
         {
@@ -28,12 +28,15 @@ namespace BingWallpaper.Services
 
         private async ValueTask<string> FetchImageUrl(CancellationToken cancellationToken = default)
         {
-            var config = Configuration.Default.WithDefaultLoader(new LoaderOptions
-            {
-                IsResourceLoadingEnabled = false
-            });
-            var context = BrowsingContext.New(config);
+            var config = Configuration.Default
+                .WithDefaultLoader(new LoaderOptions
+                {
+                    IsResourceLoadingEnabled = false
+                })
+                .WithDefaultCookies();
 
+            var context = BrowsingContext.New(config);
+            context.SetCookie(new Url(_bingUrl), "_EDGE_S=mkt=en-us;");
             var document = await context.OpenAsync(_bingUrl.ToString(), cancellation: cancellationToken);
 
             var bgElement = document.Head.Children

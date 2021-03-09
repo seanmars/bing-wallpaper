@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
@@ -9,6 +10,7 @@ using BingWallpaper.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.Net.Http.Headers;
 
 namespace BingWallpaper
 {
@@ -68,8 +70,8 @@ namespace BingWallpaper
                     opt.ClearProviders()
                         .AddConfiguration(configuration.GetSection("Logging"))
                         .AddConsole();
-                })
-                .AddHttpClient();
+                });
+            services.AddHttpClient();
 
             services.AddSingleton<BingWallpaperFetcher>();
 
