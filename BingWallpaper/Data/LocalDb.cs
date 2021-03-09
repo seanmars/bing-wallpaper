@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
@@ -60,13 +59,13 @@ namespace BingWallpaper.Data
             serializer.Serialize(writer, Data);
         }
 
-        public void AddWallpaper(BingImage image)
+        private void AddWallpaper(BingImage image)
         {
             Data.Images ??= new List<BingImage>();
             Data.Images.Add(image);
         }
 
-        public BingImage? AddWallpaper(FileContent? fileContent)
+        private BingImage? AddWallpaper(FileContent? fileContent)
         {
             if (!fileContent.HasValue)
             {
@@ -99,12 +98,12 @@ namespace BingWallpaper.Data
             }
         }
 
-        public void SetToday(BingImage image)
+        private void SetToday(BingImage image)
         {
             Data.Today = image;
         }
 
-        public void UpdateLastFetchTime()
+        private void UpdateLastFetchTime()
         {
             Data.LastFetchTime = DateHelper.Now;
         }
