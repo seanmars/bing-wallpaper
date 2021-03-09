@@ -35,9 +35,7 @@ namespace BingWallpaper.Data
 
         private bool IsExists(BingImage bingImage)
         {
-            return Data.Images.Any(i =>
-                i.Date.Date == bingImage.Date.Date ||
-                i.UrlFor4K == bingImage.UrlFor4K);
+            return Data.Images.Any(i => i.UrlFor4K == bingImage.UrlFor4K);
         }
 
         public async Task SaveData()
