@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2021-03-09T12:26:43.6778001Z",
+  "LastFetchTime": "2021-03-09T13:35:34.2422347Z",
   "Today": {
-    "Date": "2021-03-09T11:40:45.4572468Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RollingHills_ROW5233899655_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.RollingHills_ROW5233899655_UHD.jpg"
+    "Date": "2021-03-09T13:35:34.2345374Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RollingHills_EN-US0930573674_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.RollingHills_EN-US0930573674_UHD.jpg"
   },
   "Images": [
     {
@@ -27,14 +27,9 @@
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LoganClouds_ROW5093307904_UHD.jpg"
     },
     {
-      "Date": "2021-03-09T09:21:54.7293256Z",
+      "Date": "2021-03-09T13:35:34.2345374Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.RollingHills_EN-US0930573674_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.RollingHills_EN-US0930573674_UHD.jpg"
-    },
-    {
-      "Date": "2021-03-09T11:40:45.4572468Z",
-      "UrlForOrigin": "https://www.bing.com/th?id=OHR.RollingHills_ROW5233899655_1920x1080.jpg",
-      "UrlFor4K": "https://www.bing.com/th?id=OHR.RollingHills_ROW5233899655_UHD.jpg"
     }
   ]
 }
