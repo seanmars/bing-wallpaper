@@ -19,6 +19,7 @@ namespace BingWallpaper.Services
         private readonly IHttpClientFactory _httpClientFactory;
 
         private readonly Flurl.Url _bingUrl = new("https://www.bing.com");
+        private readonly string LocationCode = "zh-tw";
 
         public BingWallpaperFetcher(ILogger<BingWallpaperFetcher> logger, IHttpClientFactory httpClientFactory)
         {
@@ -36,7 +37,7 @@ namespace BingWallpaper.Services
                 .WithDefaultCookies();
 
             var context = BrowsingContext.New(config);
-            context.SetCookie(new Url(_bingUrl), "_EDGE_S=mkt=en-us;");
+            context.SetCookie(new Url(_bingUrl), $"_EDGE_S=mkt={LocationCode};");
             var document = await context.OpenAsync(_bingUrl.ToString(), cancellation: cancellationToken);
 
             var bgElement = document.Head.Children
