@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-03-19T06:18:33.6854343Z",
+  "LastFetchTime": "2021-03-19T12:27:06.8944966Z",
   "Today": {
-    "Date": "2021-03-18T12:22:24.6841439Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MtEtna_ROW3562920904_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MtEtna_ROW3562920904_UHD.jpg",
-    "Description": "Mount Etna erupting in 2013, Sicily, Italy"
+    "Date": "2021-03-19T12:27:06.8798888Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MagneticIsland_ROW3674158543_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MagneticIsland_ROW3674158543_UHD.jpg",
+    "Description": "Aerial view of the 'City of Adelaide' shipwreck with trees growing on it, Magnetic Island, Queensland, Australia"
   },
   "Images": [
     {
@@ -90,6 +90,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MtEtna_ROW3562920904_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MtEtna_ROW3562920904_UHD.jpg",
       "Description": "Mount Etna erupting in 2013, Sicily, Italy"
+    },
+    {
+      "Date": "2021-03-19T12:27:06.8798888Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MagneticIsland_ROW3674158543_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MagneticIsland_ROW3674158543_UHD.jpg",
+      "Description": "Aerial view of the 'City of Adelaide' shipwreck with trees growing on it, Magnetic Island, Queensland, Australia"
     }
   ]
 }
