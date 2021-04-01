@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-04-01T06:23:59.0793064Z",
+  "LastFetchTime": "2021-04-01T12:28:50.5647251Z",
   "Today": {
-    "Date": "2021-03-31T12:28:42.9462848Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RajaAmpat_ROW8312451744_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.RajaAmpat_ROW8312451744_UHD.jpg",
-    "Description": "Wayag Island, Raja Ampat, Indonesia"
+    "Date": "2021-04-01T12:28:50.5506612Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FooledYa_ROW8553207559_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FooledYa_ROW8553207559_UHD.jpg",
+    "Description": "Ostriches in Kgalagadi Transfrontier Park, South Africa"
   },
   "Images": [
     {
@@ -168,6 +168,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.RajaAmpat_ROW8312451744_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.RajaAmpat_ROW8312451744_UHD.jpg",
       "Description": "Wayag Island, Raja Ampat, Indonesia"
+    },
+    {
+      "Date": "2021-04-01T12:28:50.5506612Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FooledYa_ROW8553207559_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FooledYa_ROW8553207559_UHD.jpg",
+      "Description": "Ostriches in Kgalagadi Transfrontier Park, South Africa"
     }
   ]
 }
