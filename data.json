@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-04-02T06:24:17.1869366Z",
+  "LastFetchTime": "2021-04-02T12:28:36.6481303Z",
   "Today": {
-    "Date": "2021-04-01T12:28:50.5506612Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FooledYa_ROW8553207559_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.FooledYa_ROW8553207559_UHD.jpg",
-    "Description": "Ostriches in Kgalagadi Transfrontier Park, South Africa"
+    "Date": "2021-04-02T12:28:36.6351629Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BrazilSandDunes_ROW9036627755_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.BrazilSandDunes_ROW9036627755_UHD.jpg",
+    "Description": "Lençóis Maranhenses National Park, Brazil"
   },
   "Images": [
     {
@@ -174,6 +174,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.FooledYa_ROW8553207559_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.FooledYa_ROW8553207559_UHD.jpg",
       "Description": "Ostriches in Kgalagadi Transfrontier Park, South Africa"
+    },
+    {
+      "Date": "2021-04-02T12:28:36.6351629Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.BrazilSandDunes_ROW9036627755_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.BrazilSandDunes_ROW9036627755_UHD.jpg",
+      "Description": "Lençóis Maranhenses National Park, Brazil"
     }
   ]
 }
