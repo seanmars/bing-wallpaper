@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-04-04T06:23:54.8846362Z",
+  "LastFetchTime": "2021-04-04T12:28:17.5608516Z",
   "Today": {
-    "Date": "2021-04-03T12:28:00.5505075Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AnivaLighthouse_ROW9243451283_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.AnivaLighthouse_ROW9243451283_UHD.jpg",
-    "Description": "Lighthouse at Cape Aniva, Sakhalin, Russia"
+    "Date": "2021-04-04T12:28:17.547949Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.EggTree_ROW9453259256_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.EggTree_ROW9453259256_UHD.jpg",
+    "Description": "Ostereierbaum (Easter egg tree) in Saalfeld, Germany"
   },
   "Images": [
     {
@@ -186,6 +186,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.AnivaLighthouse_ROW9243451283_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.AnivaLighthouse_ROW9243451283_UHD.jpg",
       "Description": "Lighthouse at Cape Aniva, Sakhalin, Russia"
+    },
+    {
+      "Date": "2021-04-04T12:28:17.547949Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.EggTree_ROW9453259256_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.EggTree_ROW9453259256_UHD.jpg",
+      "Description": "Ostereierbaum (Easter egg tree) in Saalfeld, Germany"
     }
   ]
 }
