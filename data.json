@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-04-05T06:24:39.6135947Z",
+  "LastFetchTime": "2021-04-05T12:29:09.3361923Z",
   "Today": {
-    "Date": "2021-04-04T12:28:17.547949Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.EggTree_ROW9453259256_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.EggTree_ROW9453259256_UHD.jpg",
-    "Description": "Ostereierbaum (Easter egg tree) in Saalfeld, Germany"
+    "Date": "2021-04-05T12:29:09.3213295Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SautduBrot_ROW9659507110_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SautduBrot_ROW9659507110_UHD.jpg",
+    "Description": "Saut de Brot stone bridge, Areuse Gorge, Switzerland"
   },
   "Images": [
     {
@@ -192,6 +192,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.EggTree_ROW9453259256_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.EggTree_ROW9453259256_UHD.jpg",
       "Description": "Ostereierbaum (Easter egg tree) in Saalfeld, Germany"
+    },
+    {
+      "Date": "2021-04-05T12:29:09.3213295Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SautduBrot_ROW9659507110_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SautduBrot_ROW9659507110_UHD.jpg",
+      "Description": "Saut de Brot stone bridge, Areuse Gorge, Switzerland"
     }
   ]
 }
