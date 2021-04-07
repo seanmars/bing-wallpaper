@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-04-07T06:24:20.4133785Z",
+  "LastFetchTime": "2021-04-07T12:28:57.1285642Z",
   "Today": {
-    "Date": "2021-04-06T12:26:38.6292367Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Olympics125_ROW9889344454_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Olympics125_ROW9889344454_UHD.jpg",
-    "Description": "Parthenon temple, Acropolis of Athens, Greece"
+    "Date": "2021-04-07T12:28:57.1149587Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Etretat_ROW9183813812_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Etretat_ROW9183813812_UHD.jpg",
+    "Description": "Étretat, Normandy, France"
   },
   "Images": [
     {
@@ -204,6 +204,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Olympics125_ROW9889344454_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Olympics125_ROW9889344454_UHD.jpg",
       "Description": "Parthenon temple, Acropolis of Athens, Greece"
+    },
+    {
+      "Date": "2021-04-07T12:28:57.1149587Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Etretat_ROW9183813812_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Etretat_ROW9183813812_UHD.jpg",
+      "Description": "Étretat, Normandy, France"
     }
   ]
 }
