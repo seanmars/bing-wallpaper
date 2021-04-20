@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-04-20T06:25:38.1838679Z",
+  "LastFetchTime": "2021-04-20T12:28:47.9618486Z",
   "Today": {
-    "Date": "2021-04-19T12:28:53.8149989Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Mobula_ROW4335910337_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Mobula_ROW4335910337_UHD.jpg",
-    "Description": "Munk's pygmy devil rays, Gulf of California, Mexico"
+    "Date": "2021-04-20T12:28:47.9508017Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Ceking_ROW4482501669_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Ceking_ROW4482501669_UHD.jpg",
+    "Description": "Tegalalang Rice Terraces, Ubud, Bali, Indonesia"
   },
   "Images": [
     {
@@ -282,6 +282,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Mobula_ROW4335910337_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Mobula_ROW4335910337_UHD.jpg",
       "Description": "Munk's pygmy devil rays, Gulf of California, Mexico"
+    },
+    {
+      "Date": "2021-04-20T12:28:47.9508017Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Ceking_ROW4482501669_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Ceking_ROW4482501669_UHD.jpg",
+      "Description": "Tegalalang Rice Terraces, Ubud, Bali, Indonesia"
     }
   ]
 }
