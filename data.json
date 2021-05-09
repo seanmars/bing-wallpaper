@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-05-09T06:20:09.6505842Z",
+  "LastFetchTime": "2021-05-09T12:23:54.8432235Z",
   "Today": {
-    "Date": "2021-05-08T12:24:11.7155225Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LimosaLimosa_ROW2303701859_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LimosaLimosa_ROW2303701859_UHD.jpg",
-    "Description": "Black-tailed godwits, Netherlands"
+    "Date": "2021-05-09T12:23:54.8294984Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.OtterMom_ROW2457280246_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.OtterMom_ROW2457280246_UHD.jpg",
+    "Description": "Sea otter mother and pup, Monterey Bay, California, USA"
   },
   "Images": [
     {
@@ -396,6 +396,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LimosaLimosa_ROW2303701859_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LimosaLimosa_ROW2303701859_UHD.jpg",
       "Description": "Black-tailed godwits, Netherlands"
+    },
+    {
+      "Date": "2021-05-09T12:23:54.8294984Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.OtterMom_ROW2457280246_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.OtterMom_ROW2457280246_UHD.jpg",
+      "Description": "Sea otter mother and pup, Monterey Bay, California, USA"
     }
   ]
 }
