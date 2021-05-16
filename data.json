@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-05-16T06:22:35.0657747Z",
+  "LastFetchTime": "2021-05-16T18:33:04.7289899Z",
   "Today": {
-    "Date": "2021-05-15T12:26:19.809927Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ParanalStars_ROW3691246078_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.ParanalStars_ROW3691246078_UHD.jpg",
-    "Description": "Telescopes and star trails at Paranal Observatory, Atacama Desert, Chile"
+    "Date": "2021-05-16T18:33:04.7150707Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Guatape_ROW3885912330_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Guatape_ROW3885912330_UHD.jpg",
+    "Description": "El Peñón de Guatapé, Guatapé, Antioquia, Colombia"
   },
   "Images": [
     {
@@ -438,6 +438,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.ParanalStars_ROW3691246078_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.ParanalStars_ROW3691246078_UHD.jpg",
       "Description": "Telescopes and star trails at Paranal Observatory, Atacama Desert, Chile"
+    },
+    {
+      "Date": "2021-05-16T18:33:04.7150707Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Guatape_ROW3885912330_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Guatape_ROW3885912330_UHD.jpg",
+      "Description": "El Peñón de Guatapé, Guatapé, Antioquia, Colombia"
     }
   ]
 }
