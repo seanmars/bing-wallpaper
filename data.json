@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-05-17T06:22:53.8717219Z",
+  "LastFetchTime": "2021-05-17T12:27:59.0839907Z",
   "Today": {
-    "Date": "2021-05-16T18:33:04.7150707Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Guatape_ROW3885912330_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Guatape_ROW3885912330_UHD.jpg",
-    "Description": "El Peñón de Guatapé, Guatapé, Antioquia, Colombia"
+    "Date": "2021-05-17T12:27:59.0727951Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Alesund_ROW4027794261_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Alesund_ROW4027794261_UHD.jpg",
+    "Description": "Ålesund, Norway"
   },
   "Images": [
     {
@@ -444,6 +444,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Guatape_ROW3885912330_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Guatape_ROW3885912330_UHD.jpg",
       "Description": "El Peñón de Guatapé, Guatapé, Antioquia, Colombia"
+    },
+    {
+      "Date": "2021-05-17T12:27:59.0727951Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Alesund_ROW4027794261_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Alesund_ROW4027794261_UHD.jpg",
+      "Description": "Ålesund, Norway"
     }
   ]
 }
