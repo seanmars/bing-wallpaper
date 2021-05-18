@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-05-18T06:22:31.5541821Z",
+  "LastFetchTime": "2021-05-18T13:12:35.3059402Z",
   "Today": {
-    "Date": "2021-05-17T12:27:59.0727951Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Alesund_ROW4027794261_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Alesund_ROW4027794261_UHD.jpg",
-    "Description": "Ålesund, Norway"
+    "Date": "2021-05-18T13:12:35.2892403Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GreatHornbill_ROW4199848033_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GreatHornbill_ROW4199848033_UHD.jpg",
+    "Description": "Great hornbill in West Bengal, India"
   },
   "Images": [
     {
@@ -450,6 +450,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Alesund_ROW4027794261_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Alesund_ROW4027794261_UHD.jpg",
       "Description": "Ålesund, Norway"
+    },
+    {
+      "Date": "2021-05-18T13:12:35.2892403Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GreatHornbill_ROW4199848033_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GreatHornbill_ROW4199848033_UHD.jpg",
+      "Description": "Great hornbill in West Bengal, India"
     }
   ]
 }
