@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-06-02T02:35:03.830501Z",
+  "LastFetchTime": "2021-06-02T07:52:26.5446611Z",
   "Today": {
-    "Date": "2021-06-01T07:50:47.7358462Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.PoetrysCave_ROW5769564327_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.PoetrysCave_ROW5769564327_UHD.jpg",
-    "Description": "Grotta della Poesia in Roca, near Lecce, Italy"
+    "Date": "2021-06-02T07:52:26.5301016Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.EstoshaSpringbok_ROW6027890957_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.EstoshaSpringbok_ROW6027890957_UHD.jpg",
+    "Description": "Springboks near a waterhole in Etosha National Park, Namibia"
   },
   "Images": [
     {
@@ -540,6 +540,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.PoetrysCave_ROW5769564327_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.PoetrysCave_ROW5769564327_UHD.jpg",
       "Description": "Grotta della Poesia in Roca, near Lecce, Italy"
+    },
+    {
+      "Date": "2021-06-02T07:52:26.5301016Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.EstoshaSpringbok_ROW6027890957_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.EstoshaSpringbok_ROW6027890957_UHD.jpg",
+      "Description": "Springboks near a waterhole in Etosha National Park, Namibia"
     }
   ]
 }
