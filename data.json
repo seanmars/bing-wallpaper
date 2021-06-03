@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-06-03T02:10:47.7655019Z",
+  "LastFetchTime": "2021-06-03T07:26:41.8174186Z",
   "Today": {
-    "Date": "2021-06-02T07:52:26.5301016Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.EstoshaSpringbok_ROW6027890957_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.EstoshaSpringbok_ROW6027890957_UHD.jpg",
-    "Description": "Springboks near a waterhole in Etosha National Park, Namibia"
+    "Date": "2021-06-03T07:26:41.8071212Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SocaCycles_ROW6350079426_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SocaCycles_ROW6350079426_UHD.jpg",
+    "Description": "Cyclists on a wooden bridge over the river Soča, Triglav National Park, Slovenia"
   },
   "Images": [
     {
@@ -546,6 +546,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.EstoshaSpringbok_ROW6027890957_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.EstoshaSpringbok_ROW6027890957_UHD.jpg",
       "Description": "Springboks near a waterhole in Etosha National Park, Namibia"
+    },
+    {
+      "Date": "2021-06-03T07:26:41.8071212Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SocaCycles_ROW6350079426_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SocaCycles_ROW6350079426_UHD.jpg",
+      "Description": "Cyclists on a wooden bridge over the river Soča, Triglav National Park, Slovenia"
     }
   ]
 }
