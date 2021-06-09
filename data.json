@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-06-09T06:28:14.0619059Z",
+  "LastFetchTime": "2021-06-09T12:25:25.8771307Z",
   "Today": {
-    "Date": "2021-06-08T12:30:33.6303704Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.CortezJacks_ROW5314574932_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.CortezJacks_ROW5314574932_UHD.jpg",
-    "Description": "Jack fish at Cabo Pulmo National Park, Sea of Cortez, Baja California, Mexico"
+    "Date": "2021-06-09T12:25:25.8622863Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ForteNossa_ROW5471382887_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ForteNossa_ROW5471382887_UHD.jpg",
+    "Description": "Nossa Senhora da Graça Fort near Elvas, Portugal"
   },
   "Images": [
     {
@@ -582,6 +582,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.CortezJacks_ROW5314574932_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.CortezJacks_ROW5314574932_UHD.jpg",
       "Description": "Jack fish at Cabo Pulmo National Park, Sea of Cortez, Baja California, Mexico"
+    },
+    {
+      "Date": "2021-06-09T12:25:25.8622863Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ForteNossa_ROW5471382887_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ForteNossa_ROW5471382887_UHD.jpg",
+      "Description": "Nossa Senhora da Graça Fort near Elvas, Portugal"
     }
   ]
 }
