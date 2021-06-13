@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-06-13T06:19:08.6551425Z",
+  "LastFetchTime": "2021-06-13T12:23:18.2037326Z",
   "Today": {
-    "Date": "2021-06-12T12:22:51.2531037Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BBNPGrande_ROW6084589981_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BBNPGrande_ROW6084589981_UHD.jpg",
-    "Description": "Rio Grande river, Big Bend National Park, Texas, USA"
+    "Date": "2021-06-13T12:23:18.1925152Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FinlandBrownBear_ROW6208280659_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FinlandBrownBear_ROW6208280659_UHD.jpg",
+    "Description": "Eurasian brown bear cub, Finland"
   },
   "Images": [
     {
@@ -606,6 +606,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BBNPGrande_ROW6084589981_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BBNPGrande_ROW6084589981_UHD.jpg",
       "Description": "Rio Grande river, Big Bend National Park, Texas, USA"
+    },
+    {
+      "Date": "2021-06-13T12:23:18.1925152Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FinlandBrownBear_ROW6208280659_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FinlandBrownBear_ROW6208280659_UHD.jpg",
+      "Description": "Eurasian brown bear cub, Finland"
     }
   ]
 }
