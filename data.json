@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-06-14T06:19:48.1550732Z",
+  "LastFetchTime": "2021-06-14T12:23:53.3235023Z",
   "Today": {
-    "Date": "2021-06-13T12:23:18.1925152Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FinlandBrownBear_ROW6208280659_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.FinlandBrownBear_ROW6208280659_UHD.jpg",
-    "Description": "Eurasian brown bear cub, Finland"
+    "Date": "2021-06-14T12:23:53.3104806Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SpiritMaligne_ROW6365863815_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SpiritMaligne_ROW6365863815_UHD.jpg",
+    "Description": "Spirit Island, Maligne Lake, Jasper National Park, Alberta, Canada"
   },
   "Images": [
     {
@@ -612,6 +612,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.FinlandBrownBear_ROW6208280659_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.FinlandBrownBear_ROW6208280659_UHD.jpg",
       "Description": "Eurasian brown bear cub, Finland"
+    },
+    {
+      "Date": "2021-06-14T12:23:53.3104806Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SpiritMaligne_ROW6365863815_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SpiritMaligne_ROW6365863815_UHD.jpg",
+      "Description": "Spirit Island, Maligne Lake, Jasper National Park, Alberta, Canada"
     }
   ]
 }
