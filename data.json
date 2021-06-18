@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-06-18T06:19:50.6790427Z",
+  "LastFetchTime": "2021-06-18T12:25:11.5480052Z",
   "Today": {
-    "Date": "2021-06-17T12:28:37.6172708Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BrightEye_ROW7827840218_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BrightEye_ROW7827840218_UHD.jpg",
-    "Description": "Bright Eye sea cave, Nā Pali Coast, Kauai, Hawaii, USA"
+    "Date": "2021-06-18T12:25:11.5340258Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ReussRiver_ROW2254043815_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ReussRiver_ROW2254043815_UHD.jpg",
+    "Description": "Chapel Bridge over the river Reuss in Lucerne, Switzerland"
   },
   "Images": [
     {
@@ -636,6 +636,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BrightEye_ROW7827840218_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BrightEye_ROW7827840218_UHD.jpg",
       "Description": "Bright Eye sea cave, Nā Pali Coast, Kauai, Hawaii, USA"
+    },
+    {
+      "Date": "2021-06-18T12:25:11.5340258Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ReussRiver_ROW2254043815_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ReussRiver_ROW2254043815_UHD.jpg",
+      "Description": "Chapel Bridge over the river Reuss in Lucerne, Switzerland"
     }
   ]
 }
