@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-03T06:20:15.3540899Z",
+  "LastFetchTime": "2021-07-03T12:23:02.3616423Z",
   "Today": {
-    "Date": "2021-07-02T12:24:52.779611Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ShyFive_ROW2783034152_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.ShyFive_ROW2783034152_UHD.jpg",
-    "Description": "A meerkat in Namibia"
+    "Date": "2021-07-03T12:23:02.3476986Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WakatobiNP_ROW3038162382_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WakatobiNP_ROW3038162382_UHD.jpg",
+    "Description": "Wakatobi National Park, Indonesia"
   },
   "Images": [
     {
@@ -726,6 +726,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.ShyFive_ROW2783034152_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.ShyFive_ROW2783034152_UHD.jpg",
       "Description": "A meerkat in Namibia"
+    },
+    {
+      "Date": "2021-07-03T12:23:02.3476986Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WakatobiNP_ROW3038162382_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WakatobiNP_ROW3038162382_UHD.jpg",
+      "Description": "Wakatobi National Park, Indonesia"
     }
   ]
 }
