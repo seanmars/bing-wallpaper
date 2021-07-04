@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-04T06:19:13.7421496Z",
+  "LastFetchTime": "2021-07-04T12:23:19.6023635Z",
   "Today": {
-    "Date": "2021-07-03T12:23:02.3476986Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WakatobiNP_ROW3038162382_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.WakatobiNP_ROW3038162382_UHD.jpg",
-    "Description": "Wakatobi National Park, Indonesia"
+    "Date": "2021-07-04T12:23:19.5876546Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LakeSchreckseeBY_ROW3181218403_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.LakeSchreckseeBY_ROW3181218403_UHD.jpg",
+    "Description": "Lake Schrecksee, Allgäu Alps, Bavaria, Germany"
   },
   "Images": [
     {
@@ -732,6 +732,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.WakatobiNP_ROW3038162382_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.WakatobiNP_ROW3038162382_UHD.jpg",
       "Description": "Wakatobi National Park, Indonesia"
+    },
+    {
+      "Date": "2021-07-04T12:23:19.5876546Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.LakeSchreckseeBY_ROW3181218403_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.LakeSchreckseeBY_ROW3181218403_UHD.jpg",
+      "Description": "Lake Schrecksee, Allgäu Alps, Bavaria, Germany"
     }
   ]
 }
