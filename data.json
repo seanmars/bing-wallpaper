@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-05T06:19:46.0254087Z",
+  "LastFetchTime": "2021-07-05T12:25:29.5481563Z",
   "Today": {
-    "Date": "2021-07-04T12:23:19.5876546Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LakeSchreckseeBY_ROW3181218403_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LakeSchreckseeBY_ROW3181218403_UHD.jpg",
-    "Description": "Lake Schrecksee, Allgäu Alps, Bavaria, Germany"
+    "Date": "2021-07-05T12:25:29.5333484Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SerraMalagueta_ROW3453376197_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SerraMalagueta_ROW3453376197_UHD.jpg",
+    "Description": "Serra da Malagueta mountains, Santiago island, Cabo Verde"
   },
   "Images": [
     {
@@ -738,6 +738,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LakeSchreckseeBY_ROW3181218403_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LakeSchreckseeBY_ROW3181218403_UHD.jpg",
       "Description": "Lake Schrecksee, Allgäu Alps, Bavaria, Germany"
+    },
+    {
+      "Date": "2021-07-05T12:25:29.5333484Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SerraMalagueta_ROW3453376197_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SerraMalagueta_ROW3453376197_UHD.jpg",
+      "Description": "Serra da Malagueta mountains, Santiago island, Cabo Verde"
     }
   ]
 }
