@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-06T06:19:51.2853662Z",
+  "LastFetchTime": "2021-07-06T12:29:06.4419698Z",
   "Today": {
-    "Date": "2021-07-05T12:25:29.5333484Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SerraMalagueta_ROW3453376197_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SerraMalagueta_ROW3453376197_UHD.jpg",
-    "Description": "Serra da Malagueta mountains, Santiago island, Cabo Verde"
+    "Date": "2021-07-06T12:29:06.4259107Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TawnyFrogmouth_ROW3604042436_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.TawnyFrogmouth_ROW3604042436_UHD.jpg",
+    "Description": "Tawny frogmouth chick, Australia"
   },
   "Images": [
     {
@@ -744,6 +744,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SerraMalagueta_ROW3453376197_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SerraMalagueta_ROW3453376197_UHD.jpg",
       "Description": "Serra da Malagueta mountains, Santiago island, Cabo Verde"
+    },
+    {
+      "Date": "2021-07-06T12:29:06.4259107Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.TawnyFrogmouth_ROW3604042436_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.TawnyFrogmouth_ROW3604042436_UHD.jpg",
+      "Description": "Tawny frogmouth chick, Australia"
     }
   ]
 }
