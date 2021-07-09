@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-09T06:19:20.2863661Z",
+  "LastFetchTime": "2021-07-09T12:23:44.9870646Z",
   "Today": {
-    "Date": "2021-07-08T12:29:32.5311162Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AppalachianTrail_ROW4692793939_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.AppalachianTrail_ROW4692793939_UHD.jpg",
-    "Description": "Appalachian Trail, Stokes State Forest, New Jersey, USA"
+    "Date": "2021-07-09T12:23:44.9750675Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Ortygia_ROW5039569937_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Ortygia_ROW5039569937_UHD.jpg",
+    "Description": "Island of Ortygia, Syracuse, Sicily, Italy"
   },
   "Images": [
     {
@@ -762,6 +762,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.AppalachianTrail_ROW4692793939_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.AppalachianTrail_ROW4692793939_UHD.jpg",
       "Description": "Appalachian Trail, Stokes State Forest, New Jersey, USA"
+    },
+    {
+      "Date": "2021-07-09T12:23:44.9750675Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Ortygia_ROW5039569937_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Ortygia_ROW5039569937_UHD.jpg",
+      "Description": "Island of Ortygia, Syracuse, Sicily, Italy"
     }
   ]
 }
