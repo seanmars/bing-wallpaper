@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-10T06:18:54.8161635Z",
+  "LastFetchTime": "2021-07-10T12:22:56.1507664Z",
   "Today": {
-    "Date": "2021-07-09T12:23:44.9750675Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Ortygia_ROW5039569937_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Ortygia_ROW5039569937_UHD.jpg",
-    "Description": "Island of Ortygia, Syracuse, Sicily, Italy"
+    "Date": "2021-07-10T12:22:56.1384476Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MonfragueNationalPark_ROW5330922622_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MonfragueNationalPark_ROW5330922622_UHD.jpg",
+    "Description": "Milky Way over the Tagus river, Monfragüe National Park, Spain"
   },
   "Images": [
     {
@@ -768,6 +768,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Ortygia_ROW5039569937_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Ortygia_ROW5039569937_UHD.jpg",
       "Description": "Island of Ortygia, Syracuse, Sicily, Italy"
+    },
+    {
+      "Date": "2021-07-10T12:22:56.1384476Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MonfragueNationalPark_ROW5330922622_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MonfragueNationalPark_ROW5330922622_UHD.jpg",
+      "Description": "Milky Way over the Tagus river, Monfragüe National Park, Spain"
     }
   ]
 }
