@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-21T06:19:45.4793768Z",
+  "LastFetchTime": "2021-07-21T12:25:32.6023837Z",
   "Today": {
-    "Date": "2021-07-20T12:24:35.7104447Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.PrathameshJaju_ROW7324326722_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.PrathameshJaju_ROW7324326722_UHD.jpg",
-    "Description": "Composite image of the Moon"
+    "Date": "2021-07-21T12:25:32.5903192Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.VermilionLakes_ROW7576468698_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.VermilionLakes_ROW7576468698_UHD.jpg",
+    "Description": "Vermilion Lakes, Canadian Rocky Mountains"
   },
   "Images": [
     {
@@ -834,6 +834,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.PrathameshJaju_ROW7324326722_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.PrathameshJaju_ROW7324326722_UHD.jpg",
       "Description": "Composite image of the Moon"
+    },
+    {
+      "Date": "2021-07-21T12:25:32.5903192Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.VermilionLakes_ROW7576468698_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.VermilionLakes_ROW7576468698_UHD.jpg",
+      "Description": "Vermilion Lakes, Canadian Rocky Mountains"
     }
   ]
 }
