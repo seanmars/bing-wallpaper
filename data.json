@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-24T06:19:20.3941765Z",
+  "LastFetchTime": "2021-07-24T12:23:41.82402Z",
   "Today": {
-    "Date": "2021-07-23T12:24:24.4564659Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TokyoMetropolis_ROW7834275040_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.TokyoMetropolis_ROW7834275040_UHD.jpg",
-    "Description": "Tokyo Tower, Minato City, Tokyo, Japan"
+    "Date": "2021-07-24T12:23:41.8121359Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SeaGoldie_ROW9096795800_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SeaGoldie_ROW9096795800_UHD.jpg",
+    "Description": "Sea goldies, Great Barrier Reef, Queensland, Australia"
   },
   "Images": [
     {
@@ -852,6 +852,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.TokyoMetropolis_ROW7834275040_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.TokyoMetropolis_ROW7834275040_UHD.jpg",
       "Description": "Tokyo Tower, Minato City, Tokyo, Japan"
+    },
+    {
+      "Date": "2021-07-24T12:23:41.8121359Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SeaGoldie_ROW9096795800_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SeaGoldie_ROW9096795800_UHD.jpg",
+      "Description": "Sea goldies, Great Barrier Reef, Queensland, Australia"
     }
   ]
 }
