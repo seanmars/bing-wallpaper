@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-28T06:20:23.2024883Z",
+  "LastFetchTime": "2021-07-28T12:27:03.1663669Z",
   "Today": {
-    "Date": "2021-07-27T12:24:31.4759553Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AdlerPlanetarium_ROW8985601551_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.AdlerPlanetarium_ROW8985601551_UHD.jpg",
-    "Description": "Adler Planetarium, Chicago, Illinois, USA"
+    "Date": "2021-07-28T12:27:03.1506544Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ZinnowitzSeebruecke_ROW8061634872_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ZinnowitzSeebruecke_ROW8061634872_UHD.jpg",
+    "Description": "Zinnowitz pier, Usedom island, Germany"
   },
   "Images": [
     {
@@ -876,6 +876,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.AdlerPlanetarium_ROW8985601551_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.AdlerPlanetarium_ROW8985601551_UHD.jpg",
       "Description": "Adler Planetarium, Chicago, Illinois, USA"
+    },
+    {
+      "Date": "2021-07-28T12:27:03.1506544Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ZinnowitzSeebruecke_ROW8061634872_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ZinnowitzSeebruecke_ROW8061634872_UHD.jpg",
+      "Description": "Zinnowitz pier, Usedom island, Germany"
     }
   ]
 }
