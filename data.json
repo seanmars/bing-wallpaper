@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-07-31T06:19:02.0224911Z",
+  "LastFetchTime": "2021-07-31T12:24:16.8707294Z",
   "Today": {
-    "Date": "2021-07-30T12:25:29.9157692Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.OtterCliff_ROW1451206713_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.OtterCliff_ROW1451206713_UHD.jpg",
-    "Description": "Otter Cliffs, Acadia National Park, Maine, USA"
+    "Date": "2021-07-31T12:24:16.8507037Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TanzaniaBeeEater_ROW2293563943_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.TanzaniaBeeEater_ROW2293563943_UHD.jpg",
+    "Description": "Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania"
   },
   "Images": [
     {
@@ -894,6 +894,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.OtterCliff_ROW1451206713_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.OtterCliff_ROW1451206713_UHD.jpg",
       "Description": "Otter Cliffs, Acadia National Park, Maine, USA"
+    },
+    {
+      "Date": "2021-07-31T12:24:16.8507037Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.TanzaniaBeeEater_ROW2293563943_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.TanzaniaBeeEater_ROW2293563943_UHD.jpg",
+      "Description": "Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania"
     }
   ]
 }
