@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-08-02T06:19:40.448743Z",
+  "LastFetchTime": "2021-08-02T12:29:36.6330799Z",
   "Today": {
-    "Date": "2021-08-01T12:23:35.3459651Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LammasDay_ROW0241832582_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LammasDay_ROW0241832582_UHD.jpg",
-    "Description": "Barley field in East Lothian, Scotland"
+    "Date": "2021-08-02T12:29:36.6162404Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.UpperCathedral_ROW0496305879_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.UpperCathedral_ROW0496305879_UHD.jpg",
+    "Description": "Upper Cathedral Valley, Capitol Reef National Park, Utah, USA"
   },
   "Images": [
     {
@@ -906,6 +906,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LammasDay_ROW0241832582_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LammasDay_ROW0241832582_UHD.jpg",
       "Description": "Barley field in East Lothian, Scotland"
+    },
+    {
+      "Date": "2021-08-02T12:29:36.6162404Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.UpperCathedral_ROW0496305879_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.UpperCathedral_ROW0496305879_UHD.jpg",
+      "Description": "Upper Cathedral Valley, Capitol Reef National Park, Utah, USA"
     }
   ]
 }
