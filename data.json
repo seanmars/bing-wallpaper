@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-08-08T06:18:40.2242955Z",
+  "LastFetchTime": "2021-08-08T12:23:50.6668428Z",
   "Today": {
-    "Date": "2021-08-07T12:24:05.2429807Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SaltCones_ROW7833799337_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SaltCones_ROW7833799337_UHD.jpg",
-    "Description": "Salar de Uyuni, Bolivia"
+    "Date": "2021-08-08T12:23:50.651465Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.QuayBridge_ROW8721637441_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.QuayBridge_ROW8721637441_UHD.jpg",
+    "Description": "Elizabeth Quay Bridge, Perth, Australia"
   },
   "Images": [
     {
@@ -942,6 +942,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SaltCones_ROW7833799337_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SaltCones_ROW7833799337_UHD.jpg",
       "Description": "Salar de Uyuni, Bolivia"
+    },
+    {
+      "Date": "2021-08-08T12:23:50.651465Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.QuayBridge_ROW8721637441_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.QuayBridge_ROW8721637441_UHD.jpg",
+      "Description": "Elizabeth Quay Bridge, Perth, Australia"
     }
   ]
 }
