@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-08-09T06:19:35.8148811Z",
+  "LastFetchTime": "2021-08-09T12:29:39.6600058Z",
   "Today": {
-    "Date": "2021-08-08T12:23:50.651465Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.QuayBridge_ROW8721637441_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.QuayBridge_ROW8721637441_UHD.jpg",
-    "Description": "Elizabeth Quay Bridge, Perth, Australia"
+    "Date": "2021-08-09T12:29:39.6457017Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MineBay_ROW9610972535_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MineBay_ROW9610972535_UHD.jpg",
+    "Description": "The Mine Bay Māori Rock Carving of Ngatoroirangi by Matahi Whakataka-Brightwell on Lake Taupo, North Island, New Zealand"
   },
   "Images": [
     {
@@ -948,6 +948,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.QuayBridge_ROW8721637441_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.QuayBridge_ROW8721637441_UHD.jpg",
       "Description": "Elizabeth Quay Bridge, Perth, Australia"
+    },
+    {
+      "Date": "2021-08-09T12:29:39.6457017Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MineBay_ROW9610972535_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MineBay_ROW9610972535_UHD.jpg",
+      "Description": "The Mine Bay Māori Rock Carving of Ngatoroirangi by Matahi Whakataka-Brightwell on Lake Taupo, North Island, New Zealand"
     }
   ]
 }
