@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-08-19T06:19:21.7150142Z",
+  "LastFetchTime": "2021-08-19T12:30:06.1234221Z",
   "Today": {
-    "Date": "2021-08-18T12:29:37.8271791Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedRoofTile_ROW7569666264_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.RedRoofTile_ROW7569666264_UHD.jpg",
-    "Description": "The Old Town of Dubrovnik, Croatia"
+    "Date": "2021-08-19T12:30:06.1092159Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GiantManta_ROW7705650127_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GiantManta_ROW7705650127_UHD.jpg",
+    "Description": "Giant manta ray and a photographer off the Ningaloo Coast, Australia"
   },
   "Images": [
     {
@@ -1008,6 +1008,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedRoofTile_ROW7569666264_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.RedRoofTile_ROW7569666264_UHD.jpg",
       "Description": "The Old Town of Dubrovnik, Croatia"
+    },
+    {
+      "Date": "2021-08-19T12:30:06.1092159Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GiantManta_ROW7705650127_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GiantManta_ROW7705650127_UHD.jpg",
+      "Description": "Giant manta ray and a photographer off the Ningaloo Coast, Australia"
     }
   ]
 }
