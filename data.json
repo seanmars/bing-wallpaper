@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-08-20T06:19:11.9834856Z",
+  "LastFetchTime": "2021-08-20T12:29:12.2269583Z",
   "Today": {
-    "Date": "2021-08-19T12:30:06.1092159Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GiantManta_ROW7705650127_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.GiantManta_ROW7705650127_UHD.jpg",
-    "Description": "Giant manta ray and a photographer off the Ningaloo Coast, Australia"
+    "Date": "2021-08-20T12:29:12.2150986Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.EmptyQuarter_ROW7890832163_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.EmptyQuarter_ROW7890832163_UHD.jpg",
+    "Description": "Rub' al Khali desert on the border of Oman and the Emirate of Dubai"
   },
   "Images": [
     {
@@ -1014,6 +1014,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.GiantManta_ROW7705650127_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.GiantManta_ROW7705650127_UHD.jpg",
       "Description": "Giant manta ray and a photographer off the Ningaloo Coast, Australia"
+    },
+    {
+      "Date": "2021-08-20T12:29:12.2150986Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.EmptyQuarter_ROW7890832163_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.EmptyQuarter_ROW7890832163_UHD.jpg",
+      "Description": "Rub' al Khali desert on the border of Oman and the Emirate of Dubai"
     }
   ]
 }
