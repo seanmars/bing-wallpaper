@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-08-21T06:18:50.2697775Z",
+  "LastFetchTime": "2021-08-21T12:23:44.8120306Z",
   "Today": {
-    "Date": "2021-08-20T12:29:12.2150986Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.EmptyQuarter_ROW7890832163_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.EmptyQuarter_ROW7890832163_UHD.jpg",
-    "Description": "Rub' al Khali desert on the border of Oman and the Emirate of Dubai"
+    "Date": "2021-08-21T12:23:44.7945817Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AmboliFalls_ROW4412701506_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.AmboliFalls_ROW4412701506_UHD.jpg",
+    "Description": "Waterfall in Amboli, Maharashtra, India"
   },
   "Images": [
     {
@@ -1020,6 +1020,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.EmptyQuarter_ROW7890832163_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.EmptyQuarter_ROW7890832163_UHD.jpg",
       "Description": "Rub' al Khali desert on the border of Oman and the Emirate of Dubai"
+    },
+    {
+      "Date": "2021-08-21T12:23:44.7945817Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.AmboliFalls_ROW4412701506_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.AmboliFalls_ROW4412701506_UHD.jpg",
+      "Description": "Waterfall in Amboli, Maharashtra, India"
     }
   ]
 }
