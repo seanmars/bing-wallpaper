@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-09-08T06:18:36.4612925Z",
+  "LastFetchTime": "2021-09-08T12:24:37.9019524Z",
   "Today": {
-    "Date": "2021-09-07T12:24:13.9276508Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MassachusettsHumpbacks_ROW8421046943_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MassachusettsHumpbacks_ROW8421046943_UHD.jpg",
-    "Description": "Humpback whales, Massachusetts, USA"
+    "Date": "2021-09-08T12:24:37.8865032Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Riou_ROW8685237154_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Riou_ROW8685237154_UHD.jpg",
+    "Description": "Riou island, Calanques National Park, France"
   },
   "Images": [
     {
@@ -1128,6 +1128,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MassachusettsHumpbacks_ROW8421046943_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MassachusettsHumpbacks_ROW8421046943_UHD.jpg",
       "Description": "Humpback whales, Massachusetts, USA"
+    },
+    {
+      "Date": "2021-09-08T12:24:37.8865032Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Riou_ROW8685237154_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Riou_ROW8685237154_UHD.jpg",
+      "Description": "Riou island, Calanques National Park, France"
     }
   ]
 }
