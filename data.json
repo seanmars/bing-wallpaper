@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-09-24T06:18:43.0315642Z",
+  "LastFetchTime": "2021-09-24T12:24:32.120566Z",
   "Today": {
-    "Date": "2021-09-23T12:26:50.2429784Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BrilliantBlue_ROW4595544215_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BrilliantBlue_ROW4595544215_UHD.jpg",
-    "Description": "Neptune"
+    "Date": "2021-09-24T12:24:32.1058346Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.CuscoCathedral_ROW8168855014_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.CuscoCathedral_ROW8168855014_UHD.jpg",
+    "Description": "Cusco Cathedral, Plaza de Armas, Cusco, Peru"
   },
   "Images": [
     {
@@ -1224,6 +1224,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BrilliantBlue_ROW4595544215_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BrilliantBlue_ROW4595544215_UHD.jpg",
       "Description": "Neptune"
+    },
+    {
+      "Date": "2021-09-24T12:24:32.1058346Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.CuscoCathedral_ROW8168855014_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.CuscoCathedral_ROW8168855014_UHD.jpg",
+      "Description": "Cusco Cathedral, Plaza de Armas, Cusco, Peru"
     }
   ]
 }
