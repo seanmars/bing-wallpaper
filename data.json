@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-02T06:18:03.6872804Z",
+  "LastFetchTime": "2021-10-02T12:23:35.5759544Z",
   "Today": {
-    "Date": "2021-10-01T12:24:59.2377782Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HyacinthMacaws_ROW0713544836_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.HyacinthMacaws_ROW0713544836_UHD.jpg",
-    "Description": "Hyacinth macaws, Pantanal, Brazil"
+    "Date": "2021-10-02T12:23:35.5616068Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.IvishakRiver_ROW0821178272_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.IvishakRiver_ROW0821178272_UHD.jpg",
+    "Description": "Ivishak River, North Slope Borough, Alaska, USA"
   },
   "Images": [
     {
@@ -1272,6 +1272,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.HyacinthMacaws_ROW0713544836_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.HyacinthMacaws_ROW0713544836_UHD.jpg",
       "Description": "Hyacinth macaws, Pantanal, Brazil"
+    },
+    {
+      "Date": "2021-10-02T12:23:35.5616068Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.IvishakRiver_ROW0821178272_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.IvishakRiver_ROW0821178272_UHD.jpg",
+      "Description": "Ivishak River, North Slope Borough, Alaska, USA"
     }
   ]
 }
