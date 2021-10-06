@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-06T06:18:46.1245804Z",
+  "LastFetchTime": "2021-10-06T12:25:17.3558477Z",
   "Today": {
-    "Date": "2021-10-05T12:24:54.6003688Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BorealQuebec_ROW0647615403_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BorealQuebec_ROW0647615403_UHD.jpg",
-    "Description": "Boreal forest, Quebec, Canada"
+    "Date": "2021-10-06T12:25:17.3409511Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SWColorado_ROW1449692918_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SWColorado_ROW1449692918_UHD.jpg",
+    "Description": "Dallas Divide, Colorado, USA"
   },
   "Images": [
     {
@@ -1296,6 +1296,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BorealQuebec_ROW0647615403_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BorealQuebec_ROW0647615403_UHD.jpg",
       "Description": "Boreal forest, Quebec, Canada"
+    },
+    {
+      "Date": "2021-10-06T12:25:17.3409511Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SWColorado_ROW1449692918_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SWColorado_ROW1449692918_UHD.jpg",
+      "Description": "Dallas Divide, Colorado, USA"
     }
   ]
 }
