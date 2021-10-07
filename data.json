@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-07T06:18:32.859829Z",
+  "LastFetchTime": "2021-10-07T12:26:27.5991601Z",
   "Today": {
-    "Date": "2021-10-06T12:25:17.3409511Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SWColorado_ROW1449692918_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SWColorado_ROW1449692918_UHD.jpg",
-    "Description": "Dallas Divide, Colorado, USA"
+    "Date": "2021-10-07T12:26:27.5866334Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuayMaeKhamin_ROW1580356330_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.HuayMaeKhamin_ROW1580356330_UHD.jpg",
+    "Description": "Huay Mae Khamin waterfall, Khuean Srinagarindra National Park, Thailand"
   },
   "Images": [
     {
@@ -1302,6 +1302,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SWColorado_ROW1449692918_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SWColorado_ROW1449692918_UHD.jpg",
       "Description": "Dallas Divide, Colorado, USA"
+    },
+    {
+      "Date": "2021-10-07T12:26:27.5866334Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuayMaeKhamin_ROW1580356330_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.HuayMaeKhamin_ROW1580356330_UHD.jpg",
+      "Description": "Huay Mae Khamin waterfall, Khuean Srinagarindra National Park, Thailand"
     }
   ]
 }
