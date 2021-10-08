@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-08T06:18:37.1428016Z",
+  "LastFetchTime": "2021-10-08T12:25:11.6636169Z",
   "Today": {
-    "Date": "2021-10-07T12:26:27.5866334Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuayMaeKhamin_ROW1580356330_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.HuayMaeKhamin_ROW1580356330_UHD.jpg",
-    "Description": "Huay Mae Khamin waterfall, Khuean Srinagarindra National Park, Thailand"
+    "Date": "2021-10-08T12:25:11.6505639Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FriendlyOctopus_ROW6799758956_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FriendlyOctopus_ROW6799758956_UHD.jpg",
+    "Description": "Common octopus, Gulf of Lion, Mediterranean Sea"
   },
   "Images": [
     {
@@ -1308,6 +1308,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuayMaeKhamin_ROW1580356330_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.HuayMaeKhamin_ROW1580356330_UHD.jpg",
       "Description": "Huay Mae Khamin waterfall, Khuean Srinagarindra National Park, Thailand"
+    },
+    {
+      "Date": "2021-10-08T12:25:11.6505639Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FriendlyOctopus_ROW6799758956_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FriendlyOctopus_ROW6799758956_UHD.jpg",
+      "Description": "Common octopus, Gulf of Lion, Mediterranean Sea"
     }
   ]
 }
