@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-12T06:18:33.6302235Z",
+  "LastFetchTime": "2021-10-12T12:25:32.2994092Z",
   "Today": {
-    "Date": "2021-10-11T12:25:03.762077Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MauricieAutumn_ROW9848344686_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MauricieAutumn_ROW9848344686_UHD.jpg",
-    "Description": "Wapizagonke Lake, La Mauricie National Park, Quebec, Canada"
+    "Date": "2021-10-12T12:25:32.2784154Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.StMalo_ROW0252192060_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.StMalo_ROW0252192060_UHD.jpg",
+    "Description": "Saint-Malo, Brittany, France"
   },
   "Images": [
     {
@@ -1332,6 +1332,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MauricieAutumn_ROW9848344686_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MauricieAutumn_ROW9848344686_UHD.jpg",
       "Description": "Wapizagonke Lake, La Mauricie National Park, Quebec, Canada"
+    },
+    {
+      "Date": "2021-10-12T12:25:32.2784154Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.StMalo_ROW0252192060_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.StMalo_ROW0252192060_UHD.jpg",
+      "Description": "Saint-Malo, Brittany, France"
     }
   ]
 }
