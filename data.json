@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-16T06:18:25.0321371Z",
+  "LastFetchTime": "2021-10-16T12:24:05.000105Z",
   "Today": {
-    "Date": "2021-10-15T12:25:20.500158Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ProseccoHills_ROW5301331197_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.ProseccoHills_ROW5301331197_UHD.jpg",
-    "Description": "Farra di Soligo, Veneto, Italy"
+    "Date": "2021-10-16T12:24:04.9856359Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Hatshepsut_ROW6342899675_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Hatshepsut_ROW6342899675_UHD.jpg",
+    "Description": "Temple of Hatshepsut near Luxor, Egypt"
   },
   "Images": [
     {
@@ -1356,6 +1356,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.ProseccoHills_ROW5301331197_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.ProseccoHills_ROW5301331197_UHD.jpg",
       "Description": "Farra di Soligo, Veneto, Italy"
+    },
+    {
+      "Date": "2021-10-16T12:24:04.9856359Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Hatshepsut_ROW6342899675_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Hatshepsut_ROW6342899675_UHD.jpg",
+      "Description": "Temple of Hatshepsut near Luxor, Egypt"
     }
   ]
 }
