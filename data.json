@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-17T06:18:45.4136532Z",
+  "LastFetchTime": "2021-10-17T12:23:48.7523778Z",
   "Today": {
-    "Date": "2021-10-16T12:24:04.9856359Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Hatshepsut_ROW6342899675_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Hatshepsut_ROW6342899675_UHD.jpg",
-    "Description": "Temple of Hatshepsut near Luxor, Egypt"
+    "Date": "2021-10-17T12:23:48.7398821Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Whakarewarewa_ROW6075753729_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Whakarewarewa_ROW6075753729_UHD.jpg",
+    "Description": "Redwood Memorial Grove, Whakarewarewa Forest, North Island, New Zealand"
   },
   "Images": [
     {
@@ -1362,6 +1362,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Hatshepsut_ROW6342899675_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Hatshepsut_ROW6342899675_UHD.jpg",
       "Description": "Temple of Hatshepsut near Luxor, Egypt"
+    },
+    {
+      "Date": "2021-10-17T12:23:48.7398821Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Whakarewarewa_ROW6075753729_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Whakarewarewa_ROW6075753729_UHD.jpg",
+      "Description": "Redwood Memorial Grove, Whakarewarewa Forest, North Island, New Zealand"
     }
   ]
 }
