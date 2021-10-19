@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-19T06:18:57.3879415Z",
+  "LastFetchTime": "2021-10-19T12:30:39.3844756Z",
   "Today": {
-    "Date": "2021-10-18T12:26:11.9823177Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.CapelCurig_ROW9050750967_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.CapelCurig_ROW9050750967_UHD.jpg",
-    "Description": "Capel Curig, Snowdonia National Park, Wales, United Kingdom"
+    "Date": "2021-10-19T12:30:39.367837Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FanalMadeira_ROW0862209086_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FanalMadeira_ROW0862209086_UHD.jpg",
+    "Description": "Fanal forest, Madeira island, Portugal"
   },
   "Images": [
     {
@@ -1374,6 +1374,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.CapelCurig_ROW9050750967_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.CapelCurig_ROW9050750967_UHD.jpg",
       "Description": "Capel Curig, Snowdonia National Park, Wales, United Kingdom"
+    },
+    {
+      "Date": "2021-10-19T12:30:39.367837Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FanalMadeira_ROW0862209086_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FanalMadeira_ROW0862209086_UHD.jpg",
+      "Description": "Fanal forest, Madeira island, Portugal"
     }
   ]
 }
