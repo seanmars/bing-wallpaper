@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-23T06:18:24.3573633Z",
+  "LastFetchTime": "2021-10-23T12:24:06.9264265Z",
   "Today": {
-    "Date": "2021-10-22T12:25:40.7425401Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Neowise_ROW4166842789_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Neowise_ROW4166842789_UHD.jpg",
-    "Description": "Comet NEOWISE, Jasper National Park, Alberta, Canada"
+    "Date": "2021-10-23T12:24:06.9087206Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ScopsOwl_ROW4397693230_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ScopsOwl_ROW4397693230_UHD.jpg",
+    "Description": "Eurasian scops owl, Bohemian Switzerland National Park, Czech Republic"
   },
   "Images": [
     {
@@ -1398,6 +1398,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Neowise_ROW4166842789_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Neowise_ROW4166842789_UHD.jpg",
       "Description": "Comet NEOWISE, Jasper National Park, Alberta, Canada"
+    },
+    {
+      "Date": "2021-10-23T12:24:06.9087206Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ScopsOwl_ROW4397693230_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ScopsOwl_ROW4397693230_UHD.jpg",
+      "Description": "Eurasian scops owl, Bohemian Switzerland National Park, Czech Republic"
     }
   ]
 }
