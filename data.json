@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-10-26T06:19:23.1121878Z",
+  "LastFetchTime": "2021-10-26T12:30:41.4717462Z",
   "Today": {
-    "Date": "2021-10-25T12:25:46.9750892Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BulgariaDevilBridge_ROW4764578614_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BulgariaDevilBridge_ROW4764578614_UHD.jpg",
-    "Description": "Dyavolski most (Devil's Bridge), Arda river, Bulgaria"
+    "Date": "2021-10-26T12:30:41.4591085Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedFoxBlackForest_ROW4892504823_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.RedFoxBlackForest_ROW4892504823_UHD.jpg",
+    "Description": "Red fox, Black Forest, Germany"
   },
   "Images": [
     {
@@ -1416,6 +1416,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BulgariaDevilBridge_ROW4764578614_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BulgariaDevilBridge_ROW4764578614_UHD.jpg",
       "Description": "Dyavolski most (Devil's Bridge), Arda river, Bulgaria"
+    },
+    {
+      "Date": "2021-10-26T12:30:41.4591085Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedFoxBlackForest_ROW4892504823_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.RedFoxBlackForest_ROW4892504823_UHD.jpg",
+      "Description": "Red fox, Black Forest, Germany"
     }
   ]
 }
