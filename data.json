@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-11-08T06:19:47.9795629Z",
+  "LastFetchTime": "2021-11-08T12:28:43.555544Z",
   "Today": {
-    "Date": "2021-11-07T12:24:22.0006494Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MackArch_ROW0277566288_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MackArch_ROW0277566288_UHD.jpg",
-    "Description": "Mack Arch Rock, Oregon, USA"
+    "Date": "2021-11-08T12:28:43.5389025Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ChurchillBears_ROW0460367432_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ChurchillBears_ROW0460367432_UHD.jpg",
+    "Description": "Polar bear, Churchill, Manitoba, Canada"
   },
   "Images": [
     {
@@ -1494,6 +1494,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MackArch_ROW0277566288_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MackArch_ROW0277566288_UHD.jpg",
       "Description": "Mack Arch Rock, Oregon, USA"
+    },
+    {
+      "Date": "2021-11-08T12:28:43.5389025Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ChurchillBears_ROW0460367432_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ChurchillBears_ROW0460367432_UHD.jpg",
+      "Description": "Polar bear, Churchill, Manitoba, Canada"
     }
   ]
 }
