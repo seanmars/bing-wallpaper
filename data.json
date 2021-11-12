@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-11-12T06:19:34.0061347Z",
+  "LastFetchTime": "2021-11-12T12:25:45.9383665Z",
   "Today": {
-    "Date": "2021-11-11T12:25:43.9171979Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NohsngithiangFalls_ROW1065146529_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.NohsngithiangFalls_ROW1065146529_UHD.jpg",
-    "Description": "Nohsngithiang Falls, Meghalaya, India"
+    "Date": "2021-11-12T12:25:45.9198054Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BeaversBend_ROW1274446883_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.BeaversBend_ROW1274446883_UHD.jpg",
+    "Description": "Beavers Bend Resort Park, Oklahoma, USA"
   },
   "Images": [
     {
@@ -1518,6 +1518,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.NohsngithiangFalls_ROW1065146529_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.NohsngithiangFalls_ROW1065146529_UHD.jpg",
       "Description": "Nohsngithiang Falls, Meghalaya, India"
+    },
+    {
+      "Date": "2021-11-12T12:25:45.9198054Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.BeaversBend_ROW1274446883_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.BeaversBend_ROW1274446883_UHD.jpg",
+      "Description": "Beavers Bend Resort Park, Oklahoma, USA"
     }
   ]
 }
