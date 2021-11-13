@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-11-13T06:18:57.8562713Z",
+  "LastFetchTime": "2021-11-13T12:24:25.3341347Z",
   "Today": {
-    "Date": "2021-11-12T12:25:45.9198054Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BeaversBend_ROW1274446883_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BeaversBend_ROW1274446883_UHD.jpg",
-    "Description": "Beavers Bend Resort Park, Oklahoma, USA"
+    "Date": "2021-11-13T12:24:25.3208513Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ElTajo_ROW1825529100_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ElTajo_ROW1825529100_UHD.jpg",
+    "Description": "El Tajo gorge and Puente Nuevo bridge, Ronda, Málaga, Spain"
   },
   "Images": [
     {
@@ -1524,6 +1524,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BeaversBend_ROW1274446883_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BeaversBend_ROW1274446883_UHD.jpg",
       "Description": "Beavers Bend Resort Park, Oklahoma, USA"
+    },
+    {
+      "Date": "2021-11-13T12:24:25.3208513Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ElTajo_ROW1825529100_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ElTajo_ROW1825529100_UHD.jpg",
+      "Description": "El Tajo gorge and Puente Nuevo bridge, Ronda, Málaga, Spain"
     }
   ]
 }
