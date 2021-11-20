@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-11-20T06:19:01.5514705Z",
+  "LastFetchTime": "2021-11-20T12:24:31.9618367Z",
   "Today": {
-    "Date": "2021-11-19T12:29:29.791339Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LeftForkNorth_ROW1837987250_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LeftForkNorth_ROW1837987250_UHD.jpg",
-    "Description": "The Subway canyon, Zion National Park, Utah, USA"
+    "Date": "2021-11-20T12:24:31.9470939Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FallAssiniboine_ROW2134195305_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FallAssiniboine_ROW2134195305_UHD.jpg",
+    "Description": "Mount Assiniboine Provincial Park, British Columbia, Canada"
   },
   "Images": [
     {
@@ -1566,6 +1566,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LeftForkNorth_ROW1837987250_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LeftForkNorth_ROW1837987250_UHD.jpg",
       "Description": "The Subway canyon, Zion National Park, Utah, USA"
+    },
+    {
+      "Date": "2021-11-20T12:24:31.9470939Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FallAssiniboine_ROW2134195305_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FallAssiniboine_ROW2134195305_UHD.jpg",
+      "Description": "Mount Assiniboine Provincial Park, British Columbia, Canada"
     }
   ]
 }
