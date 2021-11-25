@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-11-25T06:19:44.5042479Z",
+  "LastFetchTime": "2021-11-25T12:26:06.5872033Z",
   "Today": {
-    "Date": "2021-11-24T12:30:35.8390574Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ChocoHillBohol_ROW0503871776_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.ChocoHillBohol_ROW0503871776_UHD.jpg",
-    "Description": "Chocolate Hills, Bohol, Philippines"
+    "Date": "2021-11-25T12:26:06.5741749Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SquirrelsCairngorms_ROW0740143732_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SquirrelsCairngorms_ROW0740143732_UHD.jpg",
+    "Description": "Red squirrels, Cairngorms National Park, Scottish Highlands"
   },
   "Images": [
     {
@@ -1596,6 +1596,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.ChocoHillBohol_ROW0503871776_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.ChocoHillBohol_ROW0503871776_UHD.jpg",
       "Description": "Chocolate Hills, Bohol, Philippines"
+    },
+    {
+      "Date": "2021-11-25T12:26:06.5741749Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SquirrelsCairngorms_ROW0740143732_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SquirrelsCairngorms_ROW0740143732_UHD.jpg",
+      "Description": "Red squirrels, Cairngorms National Park, Scottish Highlands"
     }
   ]
 }
