@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-11-26T06:19:39.4769127Z",
+  "LastFetchTime": "2021-11-26T12:25:57.8321469Z",
   "Today": {
-    "Date": "2021-11-25T12:26:06.5741749Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SquirrelsCairngorms_ROW0740143732_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SquirrelsCairngorms_ROW0740143732_UHD.jpg",
-    "Description": "Red squirrels, Cairngorms National Park, Scottish Highlands"
+    "Date": "2021-11-26T12:25:57.8193496Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterWaxwing_ROW0919039965_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterWaxwing_ROW0919039965_UHD.jpg",
+    "Description": "Bohemian waxwing, Canada"
   },
   "Images": [
     {
@@ -1602,6 +1602,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SquirrelsCairngorms_ROW0740143732_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SquirrelsCairngorms_ROW0740143732_UHD.jpg",
       "Description": "Red squirrels, Cairngorms National Park, Scottish Highlands"
+    },
+    {
+      "Date": "2021-11-26T12:25:57.8193496Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterWaxwing_ROW0919039965_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterWaxwing_ROW0919039965_UHD.jpg",
+      "Description": "Bohemian waxwing, Canada"
     }
   ]
 }
