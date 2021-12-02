@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-02T06:19:23.3031612Z",
+  "LastFetchTime": "2021-12-02T12:26:35.29884Z",
   "Today": {
-    "Date": "2021-12-01T12:27:07.2406817Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.CuvervilleIsland_ROW3179779180_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.CuvervilleIsland_ROW3179779180_UHD.jpg",
-    "Description": "Icebergs near Cuverville Island, Antarctica"
+    "Date": "2021-12-02T12:26:35.2833722Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.DenaliDall_ROW3399757642_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.DenaliDall_ROW3399757642_UHD.jpg",
+    "Description": "Denali National Park, Alaska, USA"
   },
   "Images": [
     {
@@ -1638,6 +1638,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.CuvervilleIsland_ROW3179779180_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.CuvervilleIsland_ROW3179779180_UHD.jpg",
       "Description": "Icebergs near Cuverville Island, Antarctica"
+    },
+    {
+      "Date": "2021-12-02T12:26:35.2833722Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.DenaliDall_ROW3399757642_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.DenaliDall_ROW3399757642_UHD.jpg",
+      "Description": "Denali National Park, Alaska, USA"
     }
   ]
 }
