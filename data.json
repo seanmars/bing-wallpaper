@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-05T06:19:26.4763838Z",
+  "LastFetchTime": "2021-12-05T12:25:30.7911419Z",
   "Today": {
-    "Date": "2021-12-04T12:26:23.9998464Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MotherCheetah_ROW4157746718_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MotherCheetah_ROW4157746718_UHD.jpg",
-    "Description": "Mother cheetah and cub, Maasai Mara National Reserve, Kenya"
+    "Date": "2021-12-05T12:25:30.7726135Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SalzburgKrampus_ROW5462772839_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SalzburgKrampus_ROW5462772839_UHD.jpg",
+    "Description": "Salzburg with Salzach river, Austria"
   },
   "Images": [
     {
@@ -1656,6 +1656,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MotherCheetah_ROW4157746718_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MotherCheetah_ROW4157746718_UHD.jpg",
       "Description": "Mother cheetah and cub, Maasai Mara National Reserve, Kenya"
+    },
+    {
+      "Date": "2021-12-05T12:25:30.7726135Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SalzburgKrampus_ROW5462772839_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SalzburgKrampus_ROW5462772839_UHD.jpg",
+      "Description": "Salzburg with Salzach river, Austria"
     }
   ]
 }
