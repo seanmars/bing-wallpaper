@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-07T06:20:28.7292316Z",
+  "LastFetchTime": "2021-12-07T12:28:48.0688304Z",
   "Today": {
-    "Date": "2021-12-06T12:27:08.0533544Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MistyTor_ROW5578984267_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MistyTor_ROW5578984267_UHD.jpg",
-    "Description": "Glastonbury Tor, Somerset, England"
+    "Date": "2021-12-07T12:28:48.0534527Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Koenigsbourg_ROW5759997586_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Koenigsbourg_ROW5759997586_UHD.jpg",
+    "Description": "Château du Haut-Kœnigsbourg, Alsace, France"
   },
   "Images": [
     {
@@ -1668,6 +1668,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MistyTor_ROW5578984267_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MistyTor_ROW5578984267_UHD.jpg",
       "Description": "Glastonbury Tor, Somerset, England"
+    },
+    {
+      "Date": "2021-12-07T12:28:48.0534527Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Koenigsbourg_ROW5759997586_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Koenigsbourg_ROW5759997586_UHD.jpg",
+      "Description": "Château du Haut-Kœnigsbourg, Alsace, France"
     }
   ]
 }
