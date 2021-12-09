@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-09T06:20:02.4244092Z",
+  "LastFetchTime": "2021-12-09T12:27:07.8583645Z",
   "Today": {
-    "Date": "2021-12-08T12:27:02.4173119Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.PFNPAZ_ROW5933717155_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.PFNPAZ_ROW5933717155_UHD.jpg",
-    "Description": "Petrified Forest National Park, Arizona, USA"
+    "Date": "2021-12-09T12:27:07.8425019Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GlowWormBMNP_ROW6135196064_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GlowWormBMNP_ROW6135196064_UHD.jpg",
+    "Description": "Glowworms in Blue Mountains National Park, Australia"
   },
   "Images": [
     {
@@ -1680,6 +1680,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.PFNPAZ_ROW5933717155_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.PFNPAZ_ROW5933717155_UHD.jpg",
       "Description": "Petrified Forest National Park, Arizona, USA"
+    },
+    {
+      "Date": "2021-12-09T12:27:07.8425019Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GlowWormBMNP_ROW6135196064_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GlowWormBMNP_ROW6135196064_UHD.jpg",
+      "Description": "Glowworms in Blue Mountains National Park, Australia"
     }
   ]
 }
