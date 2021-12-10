@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-10T06:19:55.4548874Z",
+  "LastFetchTime": "2021-12-10T12:26:40.1863844Z",
   "Today": {
-    "Date": "2021-12-09T12:27:07.8425019Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GlowWormBMNP_ROW6135196064_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.GlowWormBMNP_ROW6135196064_UHD.jpg",
-    "Description": "Glowworms in Blue Mountains National Park, Australia"
+    "Date": "2021-12-10T12:26:40.171967Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FoxDovrefjell_ROW6307273539_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FoxDovrefjell_ROW6307273539_UHD.jpg",
+    "Description": "Arctic fox, Dovrefjell-Sunndalsfjella National Park, Norway"
   },
   "Images": [
     {
@@ -1686,6 +1686,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.GlowWormBMNP_ROW6135196064_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.GlowWormBMNP_ROW6135196064_UHD.jpg",
       "Description": "Glowworms in Blue Mountains National Park, Australia"
+    },
+    {
+      "Date": "2021-12-10T12:26:40.171967Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FoxDovrefjell_ROW6307273539_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FoxDovrefjell_ROW6307273539_UHD.jpg",
+      "Description": "Arctic fox, Dovrefjell-Sunndalsfjella National Park, Norway"
     }
   ]
 }
