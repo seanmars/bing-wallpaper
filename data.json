@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-11T06:19:14.3357746Z",
+  "LastFetchTime": "2021-12-11T12:25:26.0780292Z",
   "Today": {
-    "Date": "2021-12-10T12:26:40.171967Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FoxDovrefjell_ROW6307273539_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.FoxDovrefjell_ROW6307273539_UHD.jpg",
-    "Description": "Arctic fox, Dovrefjell-Sunndalsfjella National Park, Norway"
+    "Date": "2021-12-11T12:25:26.0651822Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ShadowEverest_ROW7158629298_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ShadowEverest_ROW7158629298_UHD.jpg",
+    "Description": "Mount Everest's shadow over the Himalayas, Nepal"
   },
   "Images": [
     {
@@ -1692,6 +1692,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.FoxDovrefjell_ROW6307273539_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.FoxDovrefjell_ROW6307273539_UHD.jpg",
       "Description": "Arctic fox, Dovrefjell-Sunndalsfjella National Park, Norway"
+    },
+    {
+      "Date": "2021-12-11T12:25:26.0651822Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ShadowEverest_ROW7158629298_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ShadowEverest_ROW7158629298_UHD.jpg",
+      "Description": "Mount Everest's shadow over the Himalayas, Nepal"
     }
   ]
 }
