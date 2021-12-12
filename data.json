@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-12T06:19:10.294029Z",
+  "LastFetchTime": "2021-12-12T12:25:31.2785802Z",
   "Today": {
-    "Date": "2021-12-11T12:25:26.0651822Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ShadowEverest_ROW7158629298_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.ShadowEverest_ROW7158629298_UHD.jpg",
-    "Description": "Mount Everest's shadow over the Himalayas, Nepal"
+    "Date": "2021-12-12T12:25:31.2649062Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WickerCultivation_ROW8338461902_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WickerCultivation_ROW8338461902_UHD.jpg",
+    "Description": "Wicker fields, Cañamares, Spain"
   },
   "Images": [
     {
@@ -1698,6 +1698,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.ShadowEverest_ROW7158629298_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.ShadowEverest_ROW7158629298_UHD.jpg",
       "Description": "Mount Everest's shadow over the Himalayas, Nepal"
+    },
+    {
+      "Date": "2021-12-12T12:25:31.2649062Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WickerCultivation_ROW8338461902_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WickerCultivation_ROW8338461902_UHD.jpg",
+      "Description": "Wicker fields, Cañamares, Spain"
     }
   ]
 }
