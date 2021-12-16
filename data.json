@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-16T06:19:52.344807Z",
+  "LastFetchTime": "2021-12-16T12:27:12.9984936Z",
   "Today": {
-    "Date": "2021-12-15T12:26:44.1906084Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SantaJusta_ROW2461826140_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SantaJusta_ROW2461826140_UHD.jpg",
-    "Description": "Santa Justa hermitage and chapel, Cantabria, Spain"
+    "Date": "2021-12-16T12:27:12.9851722Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RhinocerosIndia_ROW9860205237_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.RhinocerosIndia_ROW9860205237_UHD.jpg",
+    "Description": "Indian rhinoceros, Kaziranga National Park, India"
   },
   "Images": [
     {
@@ -1722,6 +1722,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SantaJusta_ROW2461826140_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SantaJusta_ROW2461826140_UHD.jpg",
       "Description": "Santa Justa hermitage and chapel, Cantabria, Spain"
+    },
+    {
+      "Date": "2021-12-16T12:27:12.9851722Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.RhinocerosIndia_ROW9860205237_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.RhinocerosIndia_ROW9860205237_UHD.jpg",
+      "Description": "Indian rhinoceros, Kaziranga National Park, India"
     }
   ]
 }
