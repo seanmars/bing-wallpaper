@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-18T06:20:15.555299Z",
+  "LastFetchTime": "2021-12-18T12:25:43.3180969Z",
   "Today": {
-    "Date": "2021-12-17T12:26:35.4983918Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.QuebecFrost_ROW4720977435_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.QuebecFrost_ROW4720977435_UHD.jpg",
-    "Description": "Iron Hill, Town of Brome Lake, Quebec, Canada"
+    "Date": "2021-12-18T12:25:43.3050834Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterRoofs_ROW4878547232_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterRoofs_ROW4878547232_UHD.jpg",
+    "Description": "Riquewihr, Haut-Rhin, France"
   },
   "Images": [
     {
@@ -1734,6 +1734,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.QuebecFrost_ROW4720977435_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.QuebecFrost_ROW4720977435_UHD.jpg",
       "Description": "Iron Hill, Town of Brome Lake, Quebec, Canada"
+    },
+    {
+      "Date": "2021-12-18T12:25:43.3050834Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterRoofs_ROW4878547232_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterRoofs_ROW4878547232_UHD.jpg",
+      "Description": "Riquewihr, Haut-Rhin, France"
     }
   ]
 }
