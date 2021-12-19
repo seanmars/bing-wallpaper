@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-19T06:19:42.7010156Z",
+  "LastFetchTime": "2021-12-19T12:26:32.3117825Z",
   "Today": {
-    "Date": "2021-12-18T12:25:43.3050834Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterRoofs_ROW4878547232_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterRoofs_ROW4878547232_UHD.jpg",
-    "Description": "Riquewihr, Haut-Rhin, France"
+    "Date": "2021-12-19T12:26:32.2986211Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AtigunPassAurora_ROW5088889802_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.AtigunPassAurora_ROW5088889802_UHD.jpg",
+    "Description": "Aurora borealis, Brooks Range, Alaska, USA"
   },
   "Images": [
     {
@@ -1740,6 +1740,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterRoofs_ROW4878547232_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterRoofs_ROW4878547232_UHD.jpg",
       "Description": "Riquewihr, Haut-Rhin, France"
+    },
+    {
+      "Date": "2021-12-19T12:26:32.2986211Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.AtigunPassAurora_ROW5088889802_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.AtigunPassAurora_ROW5088889802_UHD.jpg",
+      "Description": "Aurora borealis, Brooks Range, Alaska, USA"
     }
   ]
 }
