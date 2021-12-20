@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-20T06:20:43.5544336Z",
+  "LastFetchTime": "2021-12-20T12:28:18.8495829Z",
   "Today": {
-    "Date": "2021-12-19T12:26:32.2986211Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AtigunPassAurora_ROW5088889802_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.AtigunPassAurora_ROW5088889802_UHD.jpg",
-    "Description": "Aurora borealis, Brooks Range, Alaska, USA"
+    "Date": "2021-12-20T12:28:18.8363152Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.QuoichBowl_ROW5212774672_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.QuoichBowl_ROW5212774672_UHD.jpg",
+    "Description": "Linn of Quoich, Aberdeenshire, Scotland"
   },
   "Images": [
     {
@@ -1746,6 +1746,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.AtigunPassAurora_ROW5088889802_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.AtigunPassAurora_ROW5088889802_UHD.jpg",
       "Description": "Aurora borealis, Brooks Range, Alaska, USA"
+    },
+    {
+      "Date": "2021-12-20T12:28:18.8363152Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.QuoichBowl_ROW5212774672_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.QuoichBowl_ROW5212774672_UHD.jpg",
+      "Description": "Linn of Quoich, Aberdeenshire, Scotland"
     }
   ]
 }
