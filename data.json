@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-24T06:20:34.9453206Z",
+  "LastFetchTime": "2021-12-24T12:27:31.227213Z",
   "Today": {
-    "Date": "2021-12-23T12:27:50.4936026Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ManitobaBears_ROW5914951491_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.ManitobaBears_ROW5914951491_UHD.jpg",
-    "Description": "Polar bears, Churchill, Manitoba, Canada"
+    "Date": "2021-12-24T12:27:31.2114708Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedWinter_ROW5424424718_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.RedWinter_ROW5424424718_UHD.jpg",
+    "Description": "The Rougier de Camarès, Aveyron, France"
   },
   "Images": [
     {
@@ -1770,6 +1770,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.ManitobaBears_ROW5914951491_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.ManitobaBears_ROW5914951491_UHD.jpg",
       "Description": "Polar bears, Churchill, Manitoba, Canada"
+    },
+    {
+      "Date": "2021-12-24T12:27:31.2114708Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedWinter_ROW5424424718_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.RedWinter_ROW5424424718_UHD.jpg",
+      "Description": "The Rougier de Camarès, Aveyron, France"
     }
   ]
 }
