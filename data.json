@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-28T06:20:34.3311968Z",
+  "LastFetchTime": "2021-12-28T12:27:59.8330913Z",
   "Today": {
-    "Date": "2021-12-27T12:32:47.8566228Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowBuntings_ROW7726540760_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowBuntings_ROW7726540760_UHD.jpg",
-    "Description": "Snow buntings, New York, USA"
+    "Date": "2021-12-28T12:27:59.8209393Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.KjellHenriksen_ROW7955631736_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.KjellHenriksen_ROW7955631736_UHD.jpg",
+    "Description": "Kjell Henriksen Observatory, Svalbard, Norway"
   },
   "Images": [
     {
@@ -1794,6 +1794,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowBuntings_ROW7726540760_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowBuntings_ROW7726540760_UHD.jpg",
       "Description": "Snow buntings, New York, USA"
+    },
+    {
+      "Date": "2021-12-28T12:27:59.8209393Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.KjellHenriksen_ROW7955631736_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.KjellHenriksen_ROW7955631736_UHD.jpg",
+      "Description": "Kjell Henriksen Observatory, Svalbard, Norway"
     }
   ]
 }
