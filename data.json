@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2021-12-31T06:20:37.8688362Z",
+  "LastFetchTime": "2021-12-31T12:27:20.4286633Z",
   "Today": {
-    "Date": "2021-12-30T12:27:35.4544713Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WesterheverLight_ROW9865507795_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.WesterheverLight_ROW9865507795_UHD.jpg",
-    "Description": "Westerheversand Lighthouse, Schleswig-Holstein, Germany"
+    "Date": "2021-12-31T12:27:20.4098879Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_UHD.jpg",
+    "Description": "Mehrangarh Fort, Rajasthan, India"
   },
   "Images": [
     {
@@ -1812,6 +1812,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.WesterheverLight_ROW9865507795_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.WesterheverLight_ROW9865507795_UHD.jpg",
       "Description": "Westerheversand Lighthouse, Schleswig-Holstein, Germany"
+    },
+    {
+      "Date": "2021-12-31T12:27:20.4098879Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_UHD.jpg",
+      "Description": "Mehrangarh Fort, Rajasthan, India"
     }
   ]
 }
