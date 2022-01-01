@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-01T06:20:17.3034789Z",
+  "LastFetchTime": "2022-01-01T12:26:41.6283263Z",
   "Today": {
-    "Date": "2021-12-31T12:27:20.4098879Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_UHD.jpg",
-    "Description": "Mehrangarh Fort, Rajasthan, India"
+    "Date": "2022-01-01T12:26:41.613454Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_ROW0416716522_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_ROW0416716522_UHD.jpg",
+    "Description": "Harp seal, Jones Beach, Long Island, New York, USA"
   },
   "Images": [
     {
@@ -1818,6 +1818,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_UHD.jpg",
       "Description": "Mehrangarh Fort, Rajasthan, India"
+    },
+    {
+      "Date": "2022-01-01T12:26:41.613454Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_ROW0416716522_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_ROW0416716522_UHD.jpg",
+      "Description": "Harp seal, Jones Beach, Long Island, New York, USA"
     }
   ]
 }
