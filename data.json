@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-02T06:20:04.8335637Z",
+  "LastFetchTime": "2022-01-02T12:26:39.0363642Z",
   "Today": {
-    "Date": "2022-01-01T12:26:41.613454Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_ROW0416716522_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_ROW0416716522_UHD.jpg",
-    "Description": "Harp seal, Jones Beach, Long Island, New York, USA"
+    "Date": "2022-01-02T12:26:39.0240869Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowyPrague_ROW0715712083_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowyPrague_ROW0715712083_UHD.jpg",
+    "Description": "Prague, Czech Republic"
   },
   "Images": [
     {
@@ -1824,6 +1824,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_ROW0416716522_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_ROW0416716522_UHD.jpg",
       "Description": "Harp seal, Jones Beach, Long Island, New York, USA"
+    },
+    {
+      "Date": "2022-01-02T12:26:39.0240869Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowyPrague_ROW0715712083_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowyPrague_ROW0715712083_UHD.jpg",
+      "Description": "Prague, Czech Republic"
     }
   ]
 }
