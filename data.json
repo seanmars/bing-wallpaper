@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-03T06:20:55.3117776Z",
+  "LastFetchTime": "2022-01-03T12:27:48.231444Z",
   "Today": {
-    "Date": "2022-01-02T12:26:39.0240869Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowyPrague_ROW0715712083_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowyPrague_ROW0715712083_UHD.jpg",
-    "Description": "Prague, Czech Republic"
+    "Date": "2022-01-03T12:27:48.2173227Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LickObservatory_ROW0938684744_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.LickObservatory_ROW0938684744_UHD.jpg",
+    "Description": "The Lick Observatory, Mount Hamilton, California, USA"
   },
   "Images": [
     {
@@ -1830,6 +1830,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowyPrague_ROW0715712083_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowyPrague_ROW0715712083_UHD.jpg",
       "Description": "Prague, Czech Republic"
+    },
+    {
+      "Date": "2022-01-03T12:27:48.2173227Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.LickObservatory_ROW0938684744_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.LickObservatory_ROW0938684744_UHD.jpg",
+      "Description": "The Lick Observatory, Mount Hamilton, California, USA"
     }
   ]
 }
