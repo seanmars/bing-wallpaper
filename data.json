@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-04T06:20:32.6082415Z",
+  "LastFetchTime": "2022-01-04T12:27:41.3366369Z",
   "Today": {
-    "Date": "2022-01-03T12:27:48.2173227Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LickObservatory_ROW0938684744_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LickObservatory_ROW0938684744_UHD.jpg",
-    "Description": "The Lick Observatory, Mount Hamilton, California, USA"
+    "Date": "2022-01-04T12:27:41.3207111Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BorregoBadlands_ROW1094720226_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.BorregoBadlands_ROW1094720226_UHD.jpg",
+    "Description": "Borrego Badlands, Anza-Borrego Desert State Park, California, USA"
   },
   "Images": [
     {
@@ -1836,6 +1836,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LickObservatory_ROW0938684744_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LickObservatory_ROW0938684744_UHD.jpg",
       "Description": "The Lick Observatory, Mount Hamilton, California, USA"
+    },
+    {
+      "Date": "2022-01-04T12:27:41.3207111Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.BorregoBadlands_ROW1094720226_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.BorregoBadlands_ROW1094720226_UHD.jpg",
+      "Description": "Borrego Badlands, Anza-Borrego Desert State Park, California, USA"
     }
   ]
 }
