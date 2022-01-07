@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-07T06:21:04.6343259Z",
+  "LastFetchTime": "2022-01-07T12:27:57.6020382Z",
   "Today": {
-    "Date": "2022-01-06T12:28:40.5558541Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LakeKochelsee_ROW1480353072_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LakeKochelsee_ROW1480353072_UHD.jpg",
-    "Description": "Kochelsee and Heimgarten mountain, Bavaria, Germany"
+    "Date": "2022-01-07T12:27:57.5832336Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FortedeSao_ROW1685077765_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FortedeSao_ROW1685077765_UHD.jpg",
+    "Description": "Fort of São Miguel Arcanjo, Nazaré, Portugal"
   },
   "Images": [
     {
@@ -1854,6 +1854,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LakeKochelsee_ROW1480353072_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LakeKochelsee_ROW1480353072_UHD.jpg",
       "Description": "Kochelsee and Heimgarten mountain, Bavaria, Germany"
+    },
+    {
+      "Date": "2022-01-07T12:27:57.5832336Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FortedeSao_ROW1685077765_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FortedeSao_ROW1685077765_UHD.jpg",
+      "Description": "Fort of São Miguel Arcanjo, Nazaré, Portugal"
     }
   ]
 }
