@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-08T06:20:23.8047879Z",
+  "LastFetchTime": "2022-01-08T12:26:52.4588376Z",
   "Today": {
-    "Date": "2022-01-07T12:27:57.5832336Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FortedeSao_ROW1685077765_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.FortedeSao_ROW1685077765_UHD.jpg",
-    "Description": "Fort of São Miguel Arcanjo, Nazaré, Portugal"
+    "Date": "2022-01-08T12:26:52.4433168Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterBison_ROW1853791046_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterBison_ROW1853791046_UHD.jpg",
+    "Description": "American bison, Yellowstone National Park, Wyoming, USA"
   },
   "Images": [
     {
@@ -1860,6 +1860,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.FortedeSao_ROW1685077765_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.FortedeSao_ROW1685077765_UHD.jpg",
       "Description": "Fort of São Miguel Arcanjo, Nazaré, Portugal"
+    },
+    {
+      "Date": "2022-01-08T12:26:52.4433168Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterBison_ROW1853791046_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterBison_ROW1853791046_UHD.jpg",
+      "Description": "American bison, Yellowstone National Park, Wyoming, USA"
     }
   ]
 }
