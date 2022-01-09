@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-09T06:20:24.2266528Z",
+  "LastFetchTime": "2022-01-09T12:27:02.6523572Z",
   "Today": {
-    "Date": "2022-01-08T12:26:52.4433168Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterBison_ROW1853791046_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterBison_ROW1853791046_UHD.jpg",
-    "Description": "American bison, Yellowstone National Park, Wyoming, USA"
+    "Date": "2022-01-09T12:27:02.6378045Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RiceBangladesh_ROW2040092886_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.RiceBangladesh_ROW2040092886_UHD.jpg",
+    "Description": "Rice field, Dhamrai, Dhaka, Bangladesh"
   },
   "Images": [
     {
@@ -1866,6 +1866,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterBison_ROW1853791046_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterBison_ROW1853791046_UHD.jpg",
       "Description": "American bison, Yellowstone National Park, Wyoming, USA"
+    },
+    {
+      "Date": "2022-01-09T12:27:02.6378045Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.RiceBangladesh_ROW2040092886_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.RiceBangladesh_ROW2040092886_UHD.jpg",
+      "Description": "Rice field, Dhamrai, Dhaka, Bangladesh"
     }
   ]
 }
