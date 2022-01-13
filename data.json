@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-13T06:20:50.3979048Z",
+  "LastFetchTime": "2022-01-13T12:28:27.5785622Z",
   "Today": {
-    "Date": "2022-01-12T12:28:31.7025773Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FanjingStairs_ROW3742684039_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.FanjingStairs_ROW3742684039_UHD.jpg",
-    "Description": "Mount Fanjing, Guizhou province, China"
+    "Date": "2022-01-13T12:28:27.5652327Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TasiilaqAurora_ROW3886118204_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.TasiilaqAurora_ROW3886118204_UHD.jpg",
+    "Description": "Aurora borealis, Tasiilaq, Greenland"
   },
   "Images": [
     {
@@ -1890,6 +1890,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.FanjingStairs_ROW3742684039_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.FanjingStairs_ROW3742684039_UHD.jpg",
       "Description": "Mount Fanjing, Guizhou province, China"
+    },
+    {
+      "Date": "2022-01-13T12:28:27.5652327Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.TasiilaqAurora_ROW3886118204_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.TasiilaqAurora_ROW3886118204_UHD.jpg",
+      "Description": "Aurora borealis, Tasiilaq, Greenland"
     }
   ]
 }
