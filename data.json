@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-18T06:18:21.8920201Z",
+  "LastFetchTime": "2022-01-18T12:30:08.5272896Z",
   "Today": {
-    "Date": "2022-01-17T12:28:57.3757507Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RydalWater_ROW9260366963_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.RydalWater_ROW9260366963_UHD.jpg",
-    "Description": "Rydal Water, Lake District, Cumbria, England"
+    "Date": "2022-01-18T12:30:08.5140601Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BurghausenWinter_ROW9393732124_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.BurghausenWinter_ROW9393732124_UHD.jpg",
+    "Description": "Burghausen town and Salzach river, Bavaria, Germany"
   },
   "Images": [
     {
@@ -1920,6 +1920,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.RydalWater_ROW9260366963_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.RydalWater_ROW9260366963_UHD.jpg",
       "Description": "Rydal Water, Lake District, Cumbria, England"
+    },
+    {
+      "Date": "2022-01-18T12:30:08.5140601Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.BurghausenWinter_ROW9393732124_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.BurghausenWinter_ROW9393732124_UHD.jpg",
+      "Description": "Burghausen town and Salzach river, Bavaria, Germany"
     }
   ]
 }
