@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-21T06:19:07.1187971Z",
+  "LastFetchTime": "2022-01-21T12:25:42.0647336Z",
   "Today": {
-    "Date": "2022-01-20T12:26:21.1504567Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GrahamAdelie_ROW9702290855_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.GrahamAdelie_ROW9702290855_UHD.jpg",
-    "Description": "Adélie penguin, Graham Passage, Antarctic Peninsula, Antarctica"
+    "Date": "2022-01-21T12:25:42.0482967Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuggingDay_ROW0222185853_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.HuggingDay_ROW0222185853_UHD.jpg",
+    "Description": "Lion cub and mother, Sabi Sabi, South Africa"
   },
   "Images": [
     {
@@ -1938,6 +1938,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.GrahamAdelie_ROW9702290855_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.GrahamAdelie_ROW9702290855_UHD.jpg",
       "Description": "Adélie penguin, Graham Passage, Antarctic Peninsula, Antarctica"
+    },
+    {
+      "Date": "2022-01-21T12:25:42.0482967Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuggingDay_ROW0222185853_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.HuggingDay_ROW0222185853_UHD.jpg",
+      "Description": "Lion cub and mother, Sabi Sabi, South Africa"
     }
   ]
 }
