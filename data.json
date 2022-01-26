@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-26T06:19:24.251544Z",
+  "LastFetchTime": "2022-01-26T12:26:36.3377699Z",
   "Today": {
-    "Date": "2022-01-25T12:26:07.7582773Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.StDwynwensDay_ROW0673958639_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.StDwynwensDay_ROW0673958639_UHD.jpg",
-    "Description": "Tŵr Mawr lighthouse, Llanddwyn Island, Anglesey, Wales"
+    "Date": "2022-01-26T12:26:36.3221495Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ROW0748669466_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ROW0748669466_UHD.jpg",
+    "Description": "Mehrangarh Fort, Jodhpur, Rajasthan, India"
   },
   "Images": [
     {
@@ -1968,6 +1968,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.StDwynwensDay_ROW0673958639_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.StDwynwensDay_ROW0673958639_UHD.jpg",
       "Description": "Tŵr Mawr lighthouse, Llanddwyn Island, Anglesey, Wales"
+    },
+    {
+      "Date": "2022-01-26T12:26:36.3221495Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ROW0748669466_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ROW0748669466_UHD.jpg",
+      "Description": "Mehrangarh Fort, Jodhpur, Rajasthan, India"
     }
   ]
 }
