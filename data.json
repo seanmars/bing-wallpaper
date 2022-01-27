@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-01-27T06:19:14.3200987Z",
+  "LastFetchTime": "2022-01-27T12:27:18.403053Z",
   "Today": {
-    "Date": "2022-01-26T12:26:36.3221495Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ROW0748669466_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ROW0748669466_UHD.jpg",
-    "Description": "Mehrangarh Fort, Jodhpur, Rajasthan, India"
+    "Date": "2022-01-27T12:27:18.3860652Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RibbontailStingray_ROW0847876547_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.RibbontailStingray_ROW0847876547_UHD.jpg",
+    "Description": "Bluespotted ribbontail ray near Perth, Australia"
   },
   "Images": [
     {
@@ -1974,6 +1974,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ROW0748669466_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MehrangarhCourtyard_ROW0748669466_UHD.jpg",
       "Description": "Mehrangarh Fort, Jodhpur, Rajasthan, India"
+    },
+    {
+      "Date": "2022-01-27T12:27:18.3860652Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.RibbontailStingray_ROW0847876547_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.RibbontailStingray_ROW0847876547_UHD.jpg",
+      "Description": "Bluespotted ribbontail ray near Perth, Australia"
     }
   ]
 }
