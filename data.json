@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-02T06:18:53.4603785Z",
+  "LastFetchTime": "2022-02-02T12:24:58.1532247Z",
   "Today": {
-    "Date": "2022-02-01T12:25:38.5466621Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BengalTigerIndia_ROW6729602662_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BengalTigerIndia_ROW6729602662_UHD.jpg",
-    "Description": "Bengal tiger, Ranthambore National Park, Rajasthan, India"
+    "Date": "2022-02-02T12:24:58.1393104Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GHDMarmot_ROW9446830858_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GHDMarmot_ROW9446830858_UHD.jpg",
+    "Description": "Alpine marmot, High Tauern National Park, Austria"
   },
   "Images": [
     {
@@ -2010,6 +2010,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BengalTigerIndia_ROW6729602662_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BengalTigerIndia_ROW6729602662_UHD.jpg",
       "Description": "Bengal tiger, Ranthambore National Park, Rajasthan, India"
+    },
+    {
+      "Date": "2022-02-02T12:24:58.1393104Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GHDMarmot_ROW9446830858_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GHDMarmot_ROW9446830858_UHD.jpg",
+      "Description": "Alpine marmot, High Tauern National Park, Austria"
     }
   ]
 }
