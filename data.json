@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-03T06:18:58.937719Z",
+  "LastFetchTime": "2022-02-03T12:25:56.2421207Z",
   "Today": {
-    "Date": "2022-02-02T12:24:58.1393104Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GHDMarmot_ROW9446830858_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.GHDMarmot_ROW9446830858_UHD.jpg",
-    "Description": "Alpine marmot, High Tauern National Park, Austria"
+    "Date": "2022-02-03T12:25:56.2289526Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FortCorjuem_ROW9591224424_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FortCorjuem_ROW9591224424_UHD.jpg",
+    "Description": "Corjuem Fort in Goa, India"
   },
   "Images": [
     {
@@ -2016,6 +2016,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.GHDMarmot_ROW9446830858_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.GHDMarmot_ROW9446830858_UHD.jpg",
       "Description": "Alpine marmot, High Tauern National Park, Austria"
+    },
+    {
+      "Date": "2022-02-03T12:25:56.2289526Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FortCorjuem_ROW9591224424_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FortCorjuem_ROW9591224424_UHD.jpg",
+      "Description": "Corjuem Fort in Goa, India"
     }
   ]
 }
