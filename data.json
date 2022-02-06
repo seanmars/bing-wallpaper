@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-06T06:18:26.4380218Z",
+  "LastFetchTime": "2022-02-06T12:23:36.3345594Z",
   "Today": {
-    "Date": "2022-02-05T12:19:10.2368085Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_UHD.jpg",
-    "Description": "Monarch butterflies, Monarch Butterfly Biosphere Reserve, Angangueo, Mexico"
+    "Date": "2022-02-06T12:23:36.3170273Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Oymyakon_ROW2398876854_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Oymyakon_ROW2398876854_UHD.jpg",
+    "Description": "Oymyakon, Russia"
   },
   "Images": [
     {
@@ -2034,6 +2034,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_UHD.jpg",
       "Description": "Monarch butterflies, Monarch Butterfly Biosphere Reserve, Angangueo, Mexico"
+    },
+    {
+      "Date": "2022-02-06T12:23:36.3170273Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Oymyakon_ROW2398876854_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Oymyakon_ROW2398876854_UHD.jpg",
+      "Description": "Oymyakon, Russia"
     }
   ]
 }
