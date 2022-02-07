@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-07T06:19:05.2167997Z",
+  "LastFetchTime": "2022-02-07T12:30:45.7263227Z",
   "Today": {
-    "Date": "2022-02-06T12:23:36.3170273Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Oymyakon_ROW2398876854_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Oymyakon_ROW2398876854_UHD.jpg",
-    "Description": "Oymyakon, Russia"
+    "Date": "2022-02-07T12:30:45.7131348Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterludeIce_ROW2615609916_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterludeIce_ROW2615609916_UHD.jpg",
+    "Description": "Ice sculpture, Ottawa, Canada"
   },
   "Images": [
     {
@@ -2040,6 +2040,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Oymyakon_ROW2398876854_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Oymyakon_ROW2398876854_UHD.jpg",
       "Description": "Oymyakon, Russia"
+    },
+    {
+      "Date": "2022-02-07T12:30:45.7131348Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterludeIce_ROW2615609916_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterludeIce_ROW2615609916_UHD.jpg",
+      "Description": "Ice sculpture, Ottawa, Canada"
     }
   ]
 }
