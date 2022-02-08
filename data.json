@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-08T06:19:34.0305256Z",
+  "LastFetchTime": "2022-02-08T12:27:38.1525664Z",
   "Today": {
-    "Date": "2022-02-07T12:30:45.7131348Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterludeIce_ROW2615609916_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterludeIce_ROW2615609916_UHD.jpg",
-    "Description": "Ice sculpture, Ottawa, Canada"
+    "Date": "2022-02-08T12:27:38.1369094Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BaumwipfelpfadSaarschleife_ROW5587664037_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.BaumwipfelpfadSaarschleife_ROW5587664037_UHD.jpg",
+    "Description": "Treetop Walk Saarschleife, Orscholz, Mettlach, Germany"
   },
   "Images": [
     {
@@ -2046,6 +2046,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterludeIce_ROW2615609916_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterludeIce_ROW2615609916_UHD.jpg",
       "Description": "Ice sculpture, Ottawa, Canada"
+    },
+    {
+      "Date": "2022-02-08T12:27:38.1369094Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.BaumwipfelpfadSaarschleife_ROW5587664037_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.BaumwipfelpfadSaarschleife_ROW5587664037_UHD.jpg",
+      "Description": "Treetop Walk Saarschleife, Orscholz, Mettlach, Germany"
     }
   ]
 }
