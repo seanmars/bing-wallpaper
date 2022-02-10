@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-10T06:18:49.1232075Z",
+  "LastFetchTime": "2022-02-10T12:25:02.4642771Z",
   "Today": {
-    "Date": "2022-02-09T12:30:37.5919639Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SevenSistersCliffs_ROW3098550088_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SevenSistersCliffs_ROW3098550088_UHD.jpg",
-    "Description": "Seven Sisters cliffs, East Sussex, England"
+    "Date": "2022-02-10T12:25:02.4506389Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowyBern_ROW3267941974_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowyBern_ROW3267941974_UHD.jpg",
+    "Description": "Old Town, Bern, Switzerland"
   },
   "Images": [
     {
@@ -2058,6 +2058,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SevenSistersCliffs_ROW3098550088_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SevenSistersCliffs_ROW3098550088_UHD.jpg",
       "Description": "Seven Sisters cliffs, East Sussex, England"
+    },
+    {
+      "Date": "2022-02-10T12:25:02.4506389Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowyBern_ROW3267941974_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowyBern_ROW3267941974_UHD.jpg",
+      "Description": "Old Town, Bern, Switzerland"
     }
   ]
 }
