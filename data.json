@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-11T06:20:00.3316234Z",
+  "LastFetchTime": "2022-02-11T12:24:22.9977889Z",
   "Today": {
-    "Date": "2022-02-10T12:25:02.4506389Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowyBern_ROW3267941974_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowyBern_ROW3267941974_UHD.jpg",
-    "Description": "Old Town, Bern, Switzerland"
+    "Date": "2022-02-11T12:24:22.9819486Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TeaGardensMunnar_ROW0380977650_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.TeaGardensMunnar_ROW0380977650_UHD.jpg",
+    "Description": "Tea plantations, Munnar, Kerala, India"
   },
   "Images": [
     {
@@ -2064,6 +2064,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SnowyBern_ROW3267941974_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SnowyBern_ROW3267941974_UHD.jpg",
       "Description": "Old Town, Bern, Switzerland"
+    },
+    {
+      "Date": "2022-02-11T12:24:22.9819486Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.TeaGardensMunnar_ROW0380977650_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.TeaGardensMunnar_ROW0380977650_UHD.jpg",
+      "Description": "Tea plantations, Munnar, Kerala, India"
     }
   ]
 }
