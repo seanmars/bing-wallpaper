@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-14T06:19:18.5100716Z",
+  "LastFetchTime": "2022-02-14T12:25:43.2201859Z",
   "Today": {
-    "Date": "2022-02-13T12:23:42.7494101Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FaceOff_ROW3762069272_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.FaceOff_ROW3762069272_UHD.jpg",
-    "Description": "American bison, Yellowstone National Park, Wyoming, USA"
+    "Date": "2022-02-14T12:25:43.2034182Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MaldivesHeart_ROW3978978073_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MaldivesHeart_ROW3978978073_UHD.jpg",
+    "Description": "Heart-shaped island, Indian Ocean, Maldives"
   },
   "Images": [
     {
@@ -2082,6 +2082,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.FaceOff_ROW3762069272_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.FaceOff_ROW3762069272_UHD.jpg",
       "Description": "American bison, Yellowstone National Park, Wyoming, USA"
+    },
+    {
+      "Date": "2022-02-14T12:25:43.2034182Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MaldivesHeart_ROW3978978073_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MaldivesHeart_ROW3978978073_UHD.jpg",
+      "Description": "Heart-shaped island, Indian Ocean, Maldives"
     }
   ]
 }
