@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-22T06:19:34.0503996Z",
+  "LastFetchTime": "2022-02-22T12:28:29.5766841Z",
   "Today": {
-    "Date": "2022-02-21T12:27:22.2225698Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SycamoreStars_ROW0313554911_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SycamoreStars_ROW0313554911_UHD.jpg",
-    "Description": "Aurora borealis over Sycamore Gap, Hadrian's Wall, Northumberland, England"
+    "Date": "2022-02-22T12:28:29.5633583Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BactrianCamels_ROW1554113163_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.BactrianCamels_ROW1554113163_UHD.jpg",
+    "Description": "Bactrian camels, Kazakhstan"
   },
   "Images": [
     {
@@ -2130,6 +2130,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SycamoreStars_ROW0313554911_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SycamoreStars_ROW0313554911_UHD.jpg",
       "Description": "Aurora borealis over Sycamore Gap, Hadrian's Wall, Northumberland, England"
+    },
+    {
+      "Date": "2022-02-22T12:28:29.5633583Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.BactrianCamels_ROW1554113163_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.BactrianCamels_ROW1554113163_UHD.jpg",
+      "Description": "Bactrian camels, Kazakhstan"
     }
   ]
 }
