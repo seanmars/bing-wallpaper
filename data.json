@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-02-26T06:19:48.2075775Z",
+  "LastFetchTime": "2022-02-26T12:25:19.564497Z",
   "Today": {
-    "Date": "2022-02-25T12:26:39.2255553Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WheatonYukon_ROW2815987240_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.WheatonYukon_ROW2815987240_UHD.jpg",
-    "Description": "Wheaton River near Whitehorse, Yukon, Canada"
+    "Date": "2022-02-26T12:25:19.549723Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LamplughGlacier_ROW2934749682_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.LamplughGlacier_ROW2934749682_UHD.jpg",
+    "Description": "Lamplugh Glacier, Glacier Bay National Park, Alaska, USA"
   },
   "Images": [
     {
@@ -2154,6 +2154,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.WheatonYukon_ROW2815987240_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.WheatonYukon_ROW2815987240_UHD.jpg",
       "Description": "Wheaton River near Whitehorse, Yukon, Canada"
+    },
+    {
+      "Date": "2022-02-26T12:25:19.549723Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.LamplughGlacier_ROW2934749682_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.LamplughGlacier_ROW2934749682_UHD.jpg",
+      "Description": "Lamplugh Glacier, Glacier Bay National Park, Alaska, USA"
     }
   ]
 }
