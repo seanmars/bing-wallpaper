@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-03-01T06:20:23.2232365Z",
+  "LastFetchTime": "2022-03-01T12:28:20.5000037Z",
   "Today": {
-    "Date": "2022-02-28T12:27:25.682421Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterCotswolds_ROW3189235576_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterCotswolds_ROW3189235576_UHD.jpg",
-    "Description": "Cotswolds, England"
+    "Date": "2022-03-01T12:28:20.4857785Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ZugspitzeGipfelstation_ROW3363863552_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ZugspitzeGipfelstation_ROW3363863552_UHD.jpg",
+    "Description": "Zugspitze, Garmisch-Partenkirchen, Germany"
   },
   "Images": [
     {
@@ -2172,6 +2172,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.WinterCotswolds_ROW3189235576_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.WinterCotswolds_ROW3189235576_UHD.jpg",
       "Description": "Cotswolds, England"
+    },
+    {
+      "Date": "2022-03-01T12:28:20.4857785Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ZugspitzeGipfelstation_ROW3363863552_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ZugspitzeGipfelstation_ROW3363863552_UHD.jpg",
+      "Description": "Zugspitze, Garmisch-Partenkirchen, Germany"
     }
   ]
 }
