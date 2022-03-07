@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-03-07T06:21:06.2821368Z",
+  "LastFetchTime": "2022-03-07T12:28:07.0250381Z",
   "Today": {
-    "Date": "2022-03-06T12:25:59.903795Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GreatCormorants_ROW3869451596_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.GreatCormorants_ROW3869451596_UHD.jpg",
-    "Description": "Great cormorants, Hesse, Germany"
+    "Date": "2022-03-07T12:28:07.0109822Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NZTekapo_ROW4001737494_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.NZTekapo_ROW4001737494_UHD.jpg",
+    "Description": "Lake Tekapo, South Island, New Zealand"
   },
   "Images": [
     {
@@ -2208,6 +2208,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.GreatCormorants_ROW3869451596_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.GreatCormorants_ROW3869451596_UHD.jpg",
       "Description": "Great cormorants, Hesse, Germany"
+    },
+    {
+      "Date": "2022-03-07T12:28:07.0109822Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.NZTekapo_ROW4001737494_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.NZTekapo_ROW4001737494_UHD.jpg",
+      "Description": "Lake Tekapo, South Island, New Zealand"
     }
   ]
 }
