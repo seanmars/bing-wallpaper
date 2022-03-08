@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-03-08T06:20:25.4825564Z",
+  "LastFetchTime": "2022-03-08T12:28:28.3072211Z",
   "Today": {
-    "Date": "2022-03-07T12:28:07.0109822Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NZTekapo_ROW4001737494_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.NZTekapo_ROW4001737494_UHD.jpg",
-    "Description": "Lake Tekapo, South Island, New Zealand"
+    "Date": "2022-03-08T12:28:28.2947433Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Mercantour_ROW4112577039_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Mercantour_ROW4112577039_UHD.jpg",
+    "Description": "Saint-Étienne-de-Tinée, Alpes-Maritimes department, France"
   },
   "Images": [
     {
@@ -2214,6 +2214,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.NZTekapo_ROW4001737494_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.NZTekapo_ROW4001737494_UHD.jpg",
       "Description": "Lake Tekapo, South Island, New Zealand"
+    },
+    {
+      "Date": "2022-03-08T12:28:28.2947433Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Mercantour_ROW4112577039_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Mercantour_ROW4112577039_UHD.jpg",
+      "Description": "Saint-Étienne-de-Tinée, Alpes-Maritimes department, France"
     }
   ]
 }
