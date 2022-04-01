@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-01T06:21:58.1217106Z",
+  "LastFetchTime": "2022-04-01T12:38:04.1002939Z",
   "Today": {
-    "Date": "2022-03-31T12:36:45.5427075Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AnniEiffel_ROW3307325015_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.AnniEiffel_ROW3307325015_UHD.jpg",
-    "Description": "Eiffel Tower, Paris, France"
+    "Date": "2022-04-01T12:38:04.0841154Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HawaMahalJaipur_ROW4338982918_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.HawaMahalJaipur_ROW4338982918_UHD.jpg",
+    "Description": "Hawa Mahal, Jaipur, Rajasthan, India"
   },
   "Images": [
     {
@@ -2358,6 +2358,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.AnniEiffel_ROW3307325015_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.AnniEiffel_ROW3307325015_UHD.jpg",
       "Description": "Eiffel Tower, Paris, France"
+    },
+    {
+      "Date": "2022-04-01T12:38:04.0841154Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.HawaMahalJaipur_ROW4338982918_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.HawaMahalJaipur_ROW4338982918_UHD.jpg",
+      "Description": "Hawa Mahal, Jaipur, Rajasthan, India"
     }
   ]
 }
