@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-02T06:20:34.1118435Z",
+  "LastFetchTime": "2022-04-02T12:27:02.3866991Z",
   "Today": {
-    "Date": "2022-04-01T12:38:04.0841154Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HawaMahalJaipur_ROW4338982918_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.HawaMahalJaipur_ROW4338982918_UHD.jpg",
-    "Description": "Hawa Mahal, Jaipur, Rajasthan, India"
+    "Date": "2022-04-02T12:27:02.3675153Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WhangareiFalls_ROW4816369857_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WhangareiFalls_ROW4816369857_UHD.jpg",
+    "Description": "Whangārei Falls, North Island, New Zealand"
   },
   "Images": [
     {
@@ -2364,6 +2364,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.HawaMahalJaipur_ROW4338982918_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.HawaMahalJaipur_ROW4338982918_UHD.jpg",
       "Description": "Hawa Mahal, Jaipur, Rajasthan, India"
+    },
+    {
+      "Date": "2022-04-02T12:27:02.3675153Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WhangareiFalls_ROW4816369857_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WhangareiFalls_ROW4816369857_UHD.jpg",
+      "Description": "Whangārei Falls, North Island, New Zealand"
     }
   ]
 }
