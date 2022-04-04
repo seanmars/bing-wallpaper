@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-04T06:21:40.7647768Z",
+  "LastFetchTime": "2022-04-04T12:32:02.831818Z",
   "Today": {
-    "Date": "2022-04-03T12:27:35.901214Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TaihuCherry_ROW5365833241_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.TaihuCherry_ROW5365833241_UHD.jpg",
-    "Description": "Cherry blossoms, Lake Tai, Wuxi, China"
+    "Date": "2022-04-04T12:32:02.8174997Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NorwayBoulder_ROW0458315315_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.NorwayBoulder_ROW0458315315_UHD.jpg",
+    "Description": "Kjeragbolten boulder, Kjerag mountain, Rogaland, Norway"
   },
   "Images": [
     {
@@ -2376,6 +2376,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.TaihuCherry_ROW5365833241_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.TaihuCherry_ROW5365833241_UHD.jpg",
       "Description": "Cherry blossoms, Lake Tai, Wuxi, China"
+    },
+    {
+      "Date": "2022-04-04T12:32:02.8174997Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.NorwayBoulder_ROW0458315315_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.NorwayBoulder_ROW0458315315_UHD.jpg",
+      "Description": "Kjeragbolten boulder, Kjerag mountain, Rogaland, Norway"
     }
   ]
 }
