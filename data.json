@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-07T06:21:15.207395Z",
+  "LastFetchTime": "2022-04-07T12:35:44.7253043Z",
   "Today": {
-    "Date": "2022-04-06T12:33:28.9833529Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NorthernCaracara_ROW2343321532_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.NorthernCaracara_ROW2343321532_UHD.jpg",
-    "Description": "Crested caracaras, Texas, USA"
+    "Date": "2022-04-07T12:35:44.7117983Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Malaga_ROW6853769882_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Malaga_ROW6853769882_UHD.jpg",
+    "Description": "Málaga, Spain"
   },
   "Images": [
     {
@@ -2394,6 +2394,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.NorthernCaracara_ROW2343321532_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.NorthernCaracara_ROW2343321532_UHD.jpg",
       "Description": "Crested caracaras, Texas, USA"
+    },
+    {
+      "Date": "2022-04-07T12:35:44.7117983Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Malaga_ROW6853769882_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Malaga_ROW6853769882_UHD.jpg",
+      "Description": "Málaga, Spain"
     }
   ]
 }
