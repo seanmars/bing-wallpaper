@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-09T06:20:52.5732158Z",
+  "LastFetchTime": "2022-04-09T12:27:36.3312163Z",
   "Today": {
-    "Date": "2022-04-08T12:37:49.1462998Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.PontaDelgada_ROW2848198908_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.PontaDelgada_ROW2848198908_UHD.jpg",
-    "Description": "Ponta Delgada, Madeira, Portugal"
+    "Date": "2022-04-09T12:27:36.3109874Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LightPainting_ROW2959335373_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.LightPainting_ROW2959335373_UHD.jpg",
+    "Description": "Arvada Skatepark, Colorado, USA"
   },
   "Images": [
     {
@@ -2406,6 +2406,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.PontaDelgada_ROW2848198908_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.PontaDelgada_ROW2848198908_UHD.jpg",
       "Description": "Ponta Delgada, Madeira, Portugal"
+    },
+    {
+      "Date": "2022-04-09T12:27:36.3109874Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.LightPainting_ROW2959335373_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.LightPainting_ROW2959335373_UHD.jpg",
+      "Description": "Arvada Skatepark, Colorado, USA"
     }
   ]
 }
