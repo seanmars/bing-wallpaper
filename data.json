@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-18T06:22:53.1543829Z",
+  "LastFetchTime": "2022-04-18T12:31:10.7598102Z",
   "Today": {
-    "Date": "2022-04-17T12:29:55.2625528Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RobinsEgg_ROW9080416894_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.RobinsEgg_ROW9080416894_UHD.jpg",
-    "Description": "American robin eggs, New Jersey, USA"
+    "Date": "2022-04-18T12:31:10.7459228Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_UHD.jpg",
+    "Description": "Square Tower House, Mesa Verde National Park, Colorado, USA"
   },
   "Images": [
     {
@@ -2460,6 +2460,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.RobinsEgg_ROW9080416894_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.RobinsEgg_ROW9080416894_UHD.jpg",
       "Description": "American robin eggs, New Jersey, USA"
+    },
+    {
+      "Date": "2022-04-18T12:31:10.7459228Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_UHD.jpg",
+      "Description": "Square Tower House, Mesa Verde National Park, Colorado, USA"
     }
   ]
 }
