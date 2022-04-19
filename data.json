@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-19T06:22:22.3689612Z",
+  "LastFetchTime": "2022-04-19T12:40:45.3732025Z",
   "Today": {
-    "Date": "2022-04-18T12:31:10.7459228Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_UHD.jpg",
-    "Description": "Square Tower House, Mesa Verde National Park, Colorado, USA"
+    "Date": "2022-04-19T12:40:45.3567781Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ROW9313992469_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ROW9313992469_UHD.jpg",
+    "Description": "Plitvice Lakes National Park, Croatia"
   },
   "Images": [
     {
@@ -2466,6 +2466,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_UHD.jpg",
       "Description": "Square Tower House, Mesa Verde National Park, Colorado, USA"
+    },
+    {
+      "Date": "2022-04-19T12:40:45.3567781Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ROW9313992469_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ROW9313992469_UHD.jpg",
+      "Description": "Plitvice Lakes National Park, Croatia"
     }
   ]
 }
