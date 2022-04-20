@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-20T06:23:08.5175141Z",
+  "LastFetchTime": "2022-04-20T12:38:54.667633Z",
   "Today": {
-    "Date": "2022-04-19T12:40:45.3567781Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ROW9313992469_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ROW9313992469_UHD.jpg",
-    "Description": "Plitvice Lakes National Park, Croatia"
+    "Date": "2022-04-20T12:38:54.653841Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MuteSwan_ROW9658473929_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MuteSwan_ROW9658473929_UHD.jpg",
+    "Description": "Mute swan chicks, Massapequa Preserve, Long Island, New York, USA"
   },
   "Images": [
     {
@@ -2472,6 +2472,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ROW9313992469_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ROW9313992469_UHD.jpg",
       "Description": "Plitvice Lakes National Park, Croatia"
+    },
+    {
+      "Date": "2022-04-20T12:38:54.653841Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MuteSwan_ROW9658473929_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MuteSwan_ROW9658473929_UHD.jpg",
+      "Description": "Mute swan chicks, Massapequa Preserve, Long Island, New York, USA"
     }
   ]
 }
