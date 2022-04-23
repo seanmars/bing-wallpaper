@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-23T06:21:06.3298373Z",
+  "LastFetchTime": "2022-04-23T12:28:54.0195724Z",
   "Today": {
-    "Date": "2022-04-22T12:38:43.6691704Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.EarthDay2022_ROW1374885309_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.EarthDay2022_ROW1374885309_UHD.jpg",
-    "Description": "Karula National Park, Valgamaa County, Estonia"
+    "Date": "2022-04-23T12:28:54.0060777Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ROW1472102469_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ROW1472102469_UHD.jpg",
+    "Description": "Victoria Memorial, Kolkata, India"
   },
   "Images": [
     {
@@ -2490,6 +2490,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.EarthDay2022_ROW1374885309_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.EarthDay2022_ROW1374885309_UHD.jpg",
       "Description": "Karula National Park, Valgamaa County, Estonia"
+    },
+    {
+      "Date": "2022-04-23T12:28:54.0060777Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ROW1472102469_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ROW1472102469_UHD.jpg",
+      "Description": "Victoria Memorial, Kolkata, India"
     }
   ]
 }
