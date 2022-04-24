@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-24T06:21:42.1415492Z",
+  "LastFetchTime": "2022-04-24T12:28:40.4841137Z",
   "Today": {
-    "Date": "2022-04-23T12:28:54.0060777Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ROW1472102469_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ROW1472102469_UHD.jpg",
-    "Description": "Victoria Memorial, Kolkata, India"
+    "Date": "2022-04-24T12:28:40.4705661Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.YosemiteNightSky_ROW3073300716_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.YosemiteNightSky_ROW3073300716_UHD.jpg",
+    "Description": "Milky Way, Yosemite National Park, California, USA"
   },
   "Images": [
     {
@@ -2496,6 +2496,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ROW1472102469_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ROW1472102469_UHD.jpg",
       "Description": "Victoria Memorial, Kolkata, India"
+    },
+    {
+      "Date": "2022-04-24T12:28:40.4705661Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.YosemiteNightSky_ROW3073300716_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.YosemiteNightSky_ROW3073300716_UHD.jpg",
+      "Description": "Milky Way, Yosemite National Park, California, USA"
     }
   ]
 }
