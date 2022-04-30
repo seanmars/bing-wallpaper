@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-04-30T06:21:47.9541532Z",
+  "LastFetchTime": "2022-04-30T12:29:15.6846931Z",
   "Today": {
-    "Date": "2022-04-29T12:39:39.3070653Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedwoodSprout_ROW6616462251_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.RedwoodSprout_ROW6616462251_UHD.jpg",
-    "Description": "Young giant sequoia, Prairie Creek Redwoods State Park, California, USA"
+    "Date": "2022-04-30T12:29:15.6684364Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WiedehopfElbe_ROW6788406226_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WiedehopfElbe_ROW6788406226_UHD.jpg",
+    "Description": "Hoopoe, Middle Elbe Biosphere Reserve, Germany"
   },
   "Images": [
     {
@@ -2532,6 +2532,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedwoodSprout_ROW6616462251_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.RedwoodSprout_ROW6616462251_UHD.jpg",
       "Description": "Young giant sequoia, Prairie Creek Redwoods State Park, California, USA"
+    },
+    {
+      "Date": "2022-04-30T12:29:15.6684364Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WiedehopfElbe_ROW6788406226_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WiedehopfElbe_ROW6788406226_UHD.jpg",
+      "Description": "Hoopoe, Middle Elbe Biosphere Reserve, Germany"
     }
   ]
 }
