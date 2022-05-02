@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-05-02T06:23:17.3336032Z",
+  "LastFetchTime": "2022-05-02T12:36:03.090883Z",
   "Today": {
-    "Date": "2022-05-01T12:30:20.8251903Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.VanBlooms_ROW7293450256_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.VanBlooms_ROW7293450256_UHD.jpg",
-    "Description": "VanDusen Botanical Garden, Vancouver, Canada"
+    "Date": "2022-05-02T12:36:03.0720942Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TravertineTurkey_ROW7448182986_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.TravertineTurkey_ROW7448182986_UHD.jpg",
+    "Description": "Travertine terraces, Pamukkale, Turkey"
   },
   "Images": [
     {
@@ -2544,6 +2544,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.VanBlooms_ROW7293450256_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.VanBlooms_ROW7293450256_UHD.jpg",
       "Description": "VanDusen Botanical Garden, Vancouver, Canada"
+    },
+    {
+      "Date": "2022-05-02T12:36:03.0720942Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.TravertineTurkey_ROW7448182986_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.TravertineTurkey_ROW7448182986_UHD.jpg",
+      "Description": "Travertine terraces, Pamukkale, Turkey"
     }
   ]
 }
