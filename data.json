@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-05-09T06:23:27.9063542Z",
+  "LastFetchTime": "2022-05-09T12:33:36.4263238Z",
   "Today": {
-    "Date": "2022-05-08T12:29:48.2853969Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MomJoey_ROW4210286652_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MomJoey_ROW4210286652_UHD.jpg",
-    "Description": "Koalas, Queensland, Australia"
+    "Date": "2022-05-09T12:33:36.4106683Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GoremeNationalPark_ROW4400268848_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GoremeNationalPark_ROW4400268848_UHD.jpg",
+    "Description": "Göreme, Cappadocia, Turkey"
   },
   "Images": [
     {
@@ -2586,6 +2586,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MomJoey_ROW4210286652_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MomJoey_ROW4210286652_UHD.jpg",
       "Description": "Koalas, Queensland, Australia"
+    },
+    {
+      "Date": "2022-05-09T12:33:36.4106683Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GoremeNationalPark_ROW4400268848_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GoremeNationalPark_ROW4400268848_UHD.jpg",
+      "Description": "Göreme, Cappadocia, Turkey"
     }
   ]
 }
