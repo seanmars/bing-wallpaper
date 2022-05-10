@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-05-10T06:22:38.6329925Z",
+  "LastFetchTime": "2022-05-10T12:40:38.0870921Z",
   "Today": {
-    "Date": "2022-05-09T12:33:36.4106683Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GoremeNationalPark_ROW4400268848_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.GoremeNationalPark_ROW4400268848_UHD.jpg",
-    "Description": "Göreme, Cappadocia, Turkey"
+    "Date": "2022-05-10T12:40:38.0737537Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GiffordPinchot_ROW4523187616_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GiffordPinchot_ROW4523187616_UHD.jpg",
+    "Description": "Panther Creek Falls, Gifford Pinchot National Forest, Washington, USA"
   },
   "Images": [
     {
@@ -2592,6 +2592,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.GoremeNationalPark_ROW4400268848_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.GoremeNationalPark_ROW4400268848_UHD.jpg",
       "Description": "Göreme, Cappadocia, Turkey"
+    },
+    {
+      "Date": "2022-05-10T12:40:38.0737537Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GiffordPinchot_ROW4523187616_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GiffordPinchot_ROW4523187616_UHD.jpg",
+      "Description": "Panther Creek Falls, Gifford Pinchot National Forest, Washington, USA"
     }
   ]
 }
