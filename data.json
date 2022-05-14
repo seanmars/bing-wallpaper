@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-05-14T06:37:45.3407921Z",
+  "LastFetchTime": "2022-05-14T12:35:00.2518781Z",
   "Today": {
-    "Date": "2022-05-13T12:45:33.5150514Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MaasaiGiraffe_ROW4908270547_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MaasaiGiraffe_ROW4908270547_UHD.jpg",
-    "Description": "Masai giraffe, Maasai Mara, Kenya"
+    "Date": "2022-05-14T12:35:00.2386451Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WindmillDay_ROW5032473084_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.WindmillDay_ROW5032473084_UHD.jpg",
+    "Description": "Windmills, Kinderdijk, Netherlands"
   },
   "Images": [
     {
@@ -2616,6 +2616,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MaasaiGiraffe_ROW4908270547_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MaasaiGiraffe_ROW4908270547_UHD.jpg",
       "Description": "Masai giraffe, Maasai Mara, Kenya"
+    },
+    {
+      "Date": "2022-05-14T12:35:00.2386451Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.WindmillDay_ROW5032473084_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.WindmillDay_ROW5032473084_UHD.jpg",
+      "Description": "Windmills, Kinderdijk, Netherlands"
     }
   ]
 }
