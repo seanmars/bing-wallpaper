@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-05-17T06:23:37.394645Z",
+  "LastFetchTime": "2022-05-17T12:37:08.4246597Z",
   "Today": {
-    "Date": "2022-05-16T12:36:06.2749215Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.PawneeOwls_ROW5331197269_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.PawneeOwls_ROW5331197269_UHD.jpg",
-    "Description": "Burrowing owls, Pawnee National Grassland in Colorado, USA"
+    "Date": "2022-05-17T12:37:08.4104978Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SaltPondsMaras_ROW5447706768_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SaltPondsMaras_ROW5447706768_UHD.jpg",
+    "Description": "Maras salt ponds, Sacred Valley of the Incas, Peru"
   },
   "Images": [
     {
@@ -2634,6 +2634,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.PawneeOwls_ROW5331197269_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.PawneeOwls_ROW5331197269_UHD.jpg",
       "Description": "Burrowing owls, Pawnee National Grassland in Colorado, USA"
+    },
+    {
+      "Date": "2022-05-17T12:37:08.4104978Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SaltPondsMaras_ROW5447706768_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SaltPondsMaras_ROW5447706768_UHD.jpg",
+      "Description": "Maras salt ponds, Sacred Valley of the Incas, Peru"
     }
   ]
 }
