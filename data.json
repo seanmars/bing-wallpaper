@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-05-18T06:23:52.6395957Z",
+  "LastFetchTime": "2022-05-18T12:37:28.9775863Z",
   "Today": {
-    "Date": "2022-05-17T12:37:08.4104978Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SaltPondsMaras_ROW5447706768_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SaltPondsMaras_ROW5447706768_UHD.jpg",
-    "Description": "Maras salt ponds, Sacred Valley of the Incas, Peru"
+    "Date": "2022-05-18T12:37:28.9584073Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SchlossGluecksburg_ROW5521923485_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SchlossGluecksburg_ROW5521923485_UHD.jpg",
+    "Description": "Glücksburg Castle, Schleswig-Holstein, Germany"
   },
   "Images": [
     {
@@ -2640,6 +2640,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SaltPondsMaras_ROW5447706768_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SaltPondsMaras_ROW5447706768_UHD.jpg",
       "Description": "Maras salt ponds, Sacred Valley of the Incas, Peru"
+    },
+    {
+      "Date": "2022-05-18T12:37:28.9584073Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SchlossGluecksburg_ROW5521923485_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SchlossGluecksburg_ROW5521923485_UHD.jpg",
+      "Description": "Glücksburg Castle, Schleswig-Holstein, Germany"
     }
   ]
 }
