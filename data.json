@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-05-19T06:25:03.8874908Z",
+  "LastFetchTime": "2022-05-19T12:36:24.1059959Z",
   "Today": {
-    "Date": "2022-05-18T12:37:28.9584073Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SchlossGluecksburg_ROW5521923485_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SchlossGluecksburg_ROW5521923485_UHD.jpg",
-    "Description": "Glücksburg Castle, Schleswig-Holstein, Germany"
+    "Date": "2022-05-19T12:36:24.0917367Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GlassBridge_ROW5665072755_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GlassBridge_ROW5665072755_UHD.jpg",
+    "Description": "Zhangjiajie Glass Bridge, Hunan, China"
   },
   "Images": [
     {
@@ -2646,6 +2646,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SchlossGluecksburg_ROW5521923485_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SchlossGluecksburg_ROW5521923485_UHD.jpg",
       "Description": "Glücksburg Castle, Schleswig-Holstein, Germany"
+    },
+    {
+      "Date": "2022-05-19T12:36:24.0917367Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GlassBridge_ROW5665072755_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GlassBridge_ROW5665072755_UHD.jpg",
+      "Description": "Zhangjiajie Glass Bridge, Hunan, China"
     }
   ]
 }
