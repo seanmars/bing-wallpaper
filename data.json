@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-01T06:27:21.9879112Z",
+  "LastFetchTime": "2022-06-01T12:40:09.8022477Z",
   "Today": {
-    "Date": "2022-05-31T12:36:15.1757346Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ParrotDay_ROW3618931989_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.ParrotDay_ROW3618931989_UHD.jpg",
-    "Description": "Scarlet macaw, Costa Rica"
+    "Date": "2022-06-01T12:40:09.7879759Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MarovoLagoon_ROW4011441596_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MarovoLagoon_ROW4011441596_UHD.jpg",
+    "Description": "Coral reef, Marovo Lagoon, Solomon Islands"
   },
   "Images": [
     {
@@ -2724,6 +2724,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.ParrotDay_ROW3618931989_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.ParrotDay_ROW3618931989_UHD.jpg",
       "Description": "Scarlet macaw, Costa Rica"
+    },
+    {
+      "Date": "2022-06-01T12:40:09.7879759Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MarovoLagoon_ROW4011441596_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MarovoLagoon_ROW4011441596_UHD.jpg",
+      "Description": "Coral reef, Marovo Lagoon, Solomon Islands"
     }
   ]
 }
