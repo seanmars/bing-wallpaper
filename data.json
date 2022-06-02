@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-02T06:24:54.9588597Z",
+  "LastFetchTime": "2022-06-02T12:39:58.7773342Z",
   "Today": {
-    "Date": "2022-06-01T12:40:09.7879759Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MarovoLagoon_ROW4011441596_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MarovoLagoon_ROW4011441596_UHD.jpg",
-    "Description": "Coral reef, Marovo Lagoon, Solomon Islands"
+    "Date": "2022-06-02T12:39:58.7609147Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LechfallFuessen_ROW4278538609_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.LechfallFuessen_ROW4278538609_UHD.jpg",
+    "Description": "Lechfall, Füssen, Bavaria, Germany"
   },
   "Images": [
     {
@@ -2730,6 +2730,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MarovoLagoon_ROW4011441596_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MarovoLagoon_ROW4011441596_UHD.jpg",
       "Description": "Coral reef, Marovo Lagoon, Solomon Islands"
+    },
+    {
+      "Date": "2022-06-02T12:39:58.7609147Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.LechfallFuessen_ROW4278538609_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.LechfallFuessen_ROW4278538609_UHD.jpg",
+      "Description": "Lechfall, Füssen, Bavaria, Germany"
     }
   ]
 }
