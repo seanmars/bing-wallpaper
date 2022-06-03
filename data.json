@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-03T06:21:53.1942277Z",
+  "LastFetchTime": "2022-06-03T12:31:43.6900074Z",
   "Today": {
-    "Date": "2022-06-02T12:39:58.7609147Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LechfallFuessen_ROW4278538609_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LechfallFuessen_ROW4278538609_UHD.jpg",
-    "Description": "Lechfall, Füssen, Bavaria, Germany"
+    "Date": "2022-06-03T12:31:43.6720884Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MoabCycling_ROW9593108784_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MoabCycling_ROW9593108784_UHD.jpg",
+    "Description": "Uranium Arch, Moab, Utah, USA"
   },
   "Images": [
     {
@@ -2736,6 +2736,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LechfallFuessen_ROW4278538609_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LechfallFuessen_ROW4278538609_UHD.jpg",
       "Description": "Lechfall, Füssen, Bavaria, Germany"
+    },
+    {
+      "Date": "2022-06-03T12:31:43.6720884Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MoabCycling_ROW9593108784_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MoabCycling_ROW9593108784_UHD.jpg",
+      "Description": "Uranium Arch, Moab, Utah, USA"
     }
   ]
 }
