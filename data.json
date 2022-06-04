@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-04T06:19:52.6038158Z",
+  "LastFetchTime": "2022-06-04T12:27:21.8274722Z",
   "Today": {
-    "Date": "2022-06-03T12:31:43.6720884Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MoabCycling_ROW9593108784_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MoabCycling_ROW9593108784_UHD.jpg",
-    "Description": "Uranium Arch, Moab, Utah, USA"
+    "Date": "2022-06-04T12:27:21.8137421Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BannerPeak_ROW1750213253_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.BannerPeak_ROW1750213253_UHD.jpg",
+    "Description": "Banner Peak, Ansel Adams Wilderness, California, USA"
   },
   "Images": [
     {
@@ -2742,6 +2742,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MoabCycling_ROW9593108784_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MoabCycling_ROW9593108784_UHD.jpg",
       "Description": "Uranium Arch, Moab, Utah, USA"
+    },
+    {
+      "Date": "2022-06-04T12:27:21.8137421Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.BannerPeak_ROW1750213253_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.BannerPeak_ROW1750213253_UHD.jpg",
+      "Description": "Banner Peak, Ansel Adams Wilderness, California, USA"
     }
   ]
 }
