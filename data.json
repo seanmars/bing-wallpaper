@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-06T06:22:46.6298752Z",
+  "LastFetchTime": "2022-06-06T12:36:07.9724552Z",
   "Today": {
-    "Date": "2022-06-05T12:28:47.6989606Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RapadalenSNP_ROW2513658493_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.RapadalenSNP_ROW2513658493_UHD.jpg",
-    "Description": "Rapa Valley, Sarek National Park, Sweden"
+    "Date": "2022-06-06T12:36:07.954345Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.IndigoBunting_ROW3016291098_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.IndigoBunting_ROW3016291098_UHD.jpg",
+    "Description": "Indigo bunting, Pennsylvania, USA"
   },
   "Images": [
     {
@@ -2754,6 +2754,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.RapadalenSNP_ROW2513658493_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.RapadalenSNP_ROW2513658493_UHD.jpg",
       "Description": "Rapa Valley, Sarek National Park, Sweden"
+    },
+    {
+      "Date": "2022-06-06T12:36:07.954345Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.IndigoBunting_ROW3016291098_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.IndigoBunting_ROW3016291098_UHD.jpg",
+      "Description": "Indigo bunting, Pennsylvania, USA"
     }
   ]
 }
