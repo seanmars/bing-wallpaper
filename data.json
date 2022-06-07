@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-07T06:21:19.4396399Z",
+  "LastFetchTime": "2022-06-07T12:36:10.4122361Z",
   "Today": {
-    "Date": "2022-06-06T12:36:07.954345Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.IndigoBunting_ROW3016291098_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.IndigoBunting_ROW3016291098_UHD.jpg",
-    "Description": "Indigo bunting, Pennsylvania, USA"
+    "Date": "2022-06-07T12:36:10.3951568Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HaagaRhododendron_ROW3708669828_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.HaagaRhododendron_ROW3708669828_UHD.jpg",
+    "Description": "Haaga Rhododendron Park, Helsinki, Finland"
   },
   "Images": [
     {
@@ -2760,6 +2760,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.IndigoBunting_ROW3016291098_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.IndigoBunting_ROW3016291098_UHD.jpg",
       "Description": "Indigo bunting, Pennsylvania, USA"
+    },
+    {
+      "Date": "2022-06-07T12:36:10.3951568Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.HaagaRhododendron_ROW3708669828_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.HaagaRhododendron_ROW3708669828_UHD.jpg",
+      "Description": "Haaga Rhododendron Park, Helsinki, Finland"
     }
   ]
 }
