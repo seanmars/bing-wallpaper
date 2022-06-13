@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-13T06:24:04.5774943Z",
+  "LastFetchTime": "2022-06-13T12:34:43.5006018Z",
   "Today": {
-    "Date": "2022-06-12T12:28:00.336403Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SierraPonce_ROW6389821495_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SierraPonce_ROW6389821495_UHD.jpg",
-    "Description": "Big Bend National Park, Texas, USA"
+    "Date": "2022-06-13T12:34:43.4856225Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SpottedDeers_ROW5863455968_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SpottedDeers_ROW5863455968_UHD.jpg",
+    "Description": "Spotted deer, Ranthambore National Park, Rajasthan, India"
   },
   "Images": [
     {
@@ -2796,6 +2796,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SierraPonce_ROW6389821495_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SierraPonce_ROW6389821495_UHD.jpg",
       "Description": "Big Bend National Park, Texas, USA"
+    },
+    {
+      "Date": "2022-06-13T12:34:43.4856225Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SpottedDeers_ROW5863455968_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SpottedDeers_ROW5863455968_UHD.jpg",
+      "Description": "Spotted deer, Ranthambore National Park, Rajasthan, India"
     }
   ]
 }
