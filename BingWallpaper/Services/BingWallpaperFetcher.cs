@@ -6,6 +6,7 @@ using System.Net.Http.Headers;
 using System.Threading;
 using System.Threading.Tasks;
 using AngleSharp;
+using AngleSharp.Dom;
 using AngleSharp.Io;
 using BingWallpaper.Model;
 using Microsoft.AspNetCore.WebUtilities;
