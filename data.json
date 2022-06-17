@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-17T06:22:06.3188718Z",
+  "LastFetchTime": "2022-06-17T12:35:48.6237431Z",
   "Today": {
-    "Date": "2022-06-16T12:35:01.8941464Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SeonamTemple_ROW7302837123_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SeonamTemple_ROW7302837123_UHD.jpg",
-    "Description": "Seonam Temple, Jogyesan Provincial Park, South Korea"
+    "Date": "2022-06-17T12:35:48.5964611Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Balsamroot_ROW9377740438_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Balsamroot_ROW9377740438_UHD.jpg",
+    "Description": "Teton Mountains, Grand Teton National Park, Wyoming, USA"
   },
   "Images": [
     {
@@ -2820,6 +2820,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SeonamTemple_ROW7302837123_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SeonamTemple_ROW7302837123_UHD.jpg",
       "Description": "Seonam Temple, Jogyesan Provincial Park, South Korea"
+    },
+    {
+      "Date": "2022-06-17T12:35:48.5964611Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Balsamroot_ROW9377740438_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Balsamroot_ROW9377740438_UHD.jpg",
+      "Description": "Teton Mountains, Grand Teton National Park, Wyoming, USA"
     }
   ]
 }
