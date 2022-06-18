@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-18T06:20:23.915822Z",
+  "LastFetchTime": "2022-06-18T12:29:00.41509Z",
   "Today": {
-    "Date": "2022-06-17T12:35:48.5964611Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Balsamroot_ROW9377740438_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Balsamroot_ROW9377740438_UHD.jpg",
-    "Description": "Teton Mountains, Grand Teton National Park, Wyoming, USA"
+    "Date": "2022-06-18T12:29:00.4027173Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.CelebratingSurfing_ROW9691697820_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.CelebratingSurfing_ROW9691697820_UHD.jpg",
+    "Description": "Palm Beach, Gold Coast, Queensland, Australia"
   },
   "Images": [
     {
@@ -2826,6 +2826,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Balsamroot_ROW9377740438_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Balsamroot_ROW9377740438_UHD.jpg",
       "Description": "Teton Mountains, Grand Teton National Park, Wyoming, USA"
+    },
+    {
+      "Date": "2022-06-18T12:29:00.4027173Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.CelebratingSurfing_ROW9691697820_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.CelebratingSurfing_ROW9691697820_UHD.jpg",
+      "Description": "Palm Beach, Gold Coast, Queensland, Australia"
     }
   ]
 }
