@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-19T06:20:36.6564599Z",
+  "LastFetchTime": "2022-06-19T12:29:35.2554054Z",
   "Today": {
-    "Date": "2022-06-18T12:29:00.4027173Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.CelebratingSurfing_ROW9691697820_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.CelebratingSurfing_ROW9691697820_UHD.jpg",
-    "Description": "Palm Beach, Gold Coast, Queensland, Australia"
+    "Date": "2022-06-19T12:29:35.2394764Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Cassowary_ROW9949934135_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Cassowary_ROW9949934135_UHD.jpg",
+    "Description": "Southern cassowary, Queensland, Australia"
   },
   "Images": [
     {
@@ -2832,6 +2832,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.CelebratingSurfing_ROW9691697820_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.CelebratingSurfing_ROW9691697820_UHD.jpg",
       "Description": "Palm Beach, Gold Coast, Queensland, Australia"
+    },
+    {
+      "Date": "2022-06-19T12:29:35.2394764Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Cassowary_ROW9949934135_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Cassowary_ROW9949934135_UHD.jpg",
+      "Description": "Southern cassowary, Queensland, Australia"
     }
   ]
 }
