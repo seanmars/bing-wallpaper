@@ -1,10 +1,10 @@
 {
-  "LastFetchTime": "2022-06-22T06:21:34.3055291Z",
+  "LastFetchTime": "2022-06-22T12:34:58.0513333Z",
   "Today": {
-    "Date": "2022-06-21T12:38:42.8700691Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GlastonburySolstice_ROW0713197757_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.GlastonburySolstice_ROW0713197757_UHD.jpg",
-    "Description": "Glastonbury Tor, Somerset, England"
+    "Date": "2022-06-22T12:34:58.0381876Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AmazonianEcuador_ROW0995922587_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.AmazonianEcuador_ROW0995922587_UHD.jpg",
+    "Description": "Yasuní National Park, Amazonian Ecuador"
   },
   "Images": [
     {
@@ -2850,6 +2850,12 @@
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.GlastonburySolstice_ROW0713197757_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.GlastonburySolstice_ROW0713197757_UHD.jpg",
       "Description": "Glastonbury Tor, Somerset, England"
+    },
+    {
+      "Date": "2022-06-22T12:34:58.0381876Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.AmazonianEcuador_ROW0995922587_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.AmazonianEcuador_ROW0995922587_UHD.jpg",
+      "Description": "Yasuní National Park, Amazonian Ecuador"
     }
   ]
 }
