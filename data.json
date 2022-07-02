@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-07-02T06:20:29.6596651Z",
+  "LastFetchTime": "2022-07-02T12:29:29.3162579Z",
   "Today": {
-    "Date": "2022-07-01T12:37:41.3926245Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AgueroVillage_ROW2440611691_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.AgueroVillage_ROW2440611691_UHD.jpg",
+    "Date": "2022-07-02T12:29:29.3032965Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.CataratasIguacu_ROW2311413706_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.CataratasIguacu_ROW2311413706_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -2909,6 +2909,12 @@
       "Date": "2022-07-01T12:37:41.3926245Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.AgueroVillage_ROW2440611691_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.AgueroVillage_ROW2440611691_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-07-02T12:29:29.3032965Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.CataratasIguacu_ROW2311413706_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.CataratasIguacu_ROW2311413706_UHD.jpg",
       "Description": ""
     }
   ]
