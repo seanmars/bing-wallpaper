@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-08-16T06:22:16.20996Z",
+  "LastFetchTime": "2022-08-16T12:32:35.7713517Z",
   "Today": {
-    "Date": "2022-08-15T12:36:53.7246282Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ChittorgarhFort_ROW1283287703_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.ChittorgarhFort_ROW1283287703_UHD.jpg",
+    "Date": "2022-08-16T12:32:35.7584874Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GreatWhiteRoller_ROW1574506411_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GreatWhiteRoller_ROW1574506411_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3179,6 +3179,12 @@
       "Date": "2022-08-15T12:36:53.7246282Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.ChittorgarhFort_ROW1283287703_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.ChittorgarhFort_ROW1283287703_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-08-16T12:32:35.7584874Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GreatWhiteRoller_ROW1574506411_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GreatWhiteRoller_ROW1574506411_UHD.jpg",
       "Description": ""
     }
   ]
