@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-08-24T06:25:16.6772431Z",
+  "LastFetchTime": "2022-08-24T12:36:15.1969425Z",
   "Today": {
-    "Date": "2022-08-23T12:35:25.3478642Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MentonFrance_ROW8850896110_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MentonFrance_ROW8850896110_UHD.jpg",
+    "Date": "2022-08-24T12:36:15.1849906Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SantaBarbara_ROW1846191400_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SantaBarbara_ROW1846191400_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3227,6 +3227,12 @@
       "Date": "2022-08-23T12:35:25.3478642Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MentonFrance_ROW8850896110_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MentonFrance_ROW8850896110_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-08-24T12:36:15.1849906Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SantaBarbara_ROW1846191400_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SantaBarbara_ROW1846191400_UHD.jpg",
       "Description": ""
     }
   ]
