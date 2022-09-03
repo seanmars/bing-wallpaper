@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-09-03T06:22:10.579278Z",
+  "LastFetchTime": "2022-09-03T12:32:00.573956Z",
   "Today": {
-    "Date": "2022-09-02T12:36:30.8872854Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LagoBraies_ROW2522700379_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LagoBraies_ROW2522700379_UHD.jpg",
+    "Date": "2022-09-03T12:32:00.5609551Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ROW5440595938_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ROW5440595938_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3287,6 +3287,12 @@
       "Date": "2022-09-02T12:36:30.8872854Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LagoBraies_ROW2522700379_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LagoBraies_ROW2522700379_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-09-03T12:32:00.5609551Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ROW5440595938_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ROW5440595938_UHD.jpg",
       "Description": ""
     }
   ]
