@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-09-04T06:21:26.1810382Z",
+  "LastFetchTime": "2022-09-04T12:36:13.8618426Z",
   "Today": {
-    "Date": "2022-09-03T12:32:00.5609551Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ROW5440595938_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ROW5440595938_UHD.jpg",
+    "Date": "2022-09-04T12:36:13.8477518Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ArambolBeach_ROW5801779063_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ArambolBeach_ROW5801779063_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3293,6 +3293,12 @@
       "Date": "2022-09-03T12:32:00.5609551Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ROW5440595938_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ROW5440595938_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-09-04T12:36:13.8477518Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ArambolBeach_ROW5801779063_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ArambolBeach_ROW5801779063_UHD.jpg",
       "Description": ""
     }
   ]
