@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-09-26T06:52:13.5100115Z",
+  "LastFetchTime": "2022-09-26T12:42:52.9675062Z",
   "Today": {
-    "Date": "2022-09-25T12:36:33.9697538Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AmazonMangroves_ROW2453448242_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.AmazonMangroves_ROW2453448242_UHD.jpg",
+    "Date": "2022-09-26T12:42:52.9556367Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SusitnaRiver_ROW3018633295_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.SusitnaRiver_ROW3018633295_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3425,6 +3425,12 @@
       "Date": "2022-09-25T12:36:33.9697538Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.AmazonMangroves_ROW2453448242_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.AmazonMangroves_ROW2453448242_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-09-26T12:42:52.9556367Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.SusitnaRiver_ROW3018633295_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.SusitnaRiver_ROW3018633295_UHD.jpg",
       "Description": ""
     }
   ]
