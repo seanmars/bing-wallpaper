@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-09-28T06:53:58.1774037Z",
+  "LastFetchTime": "2022-09-28T12:41:11.2022946Z",
   "Today": {
-    "Date": "2022-09-27T12:43:33.7914168Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.YellowstoneUGB_ROW3329155344_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.YellowstoneUGB_ROW3329155344_UHD.jpg",
+    "Date": "2022-09-28T12:41:11.183122Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FosterCoveredBridge_ROW3714660823_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FosterCoveredBridge_ROW3714660823_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3437,6 +3437,12 @@
       "Date": "2022-09-27T12:43:33.7914168Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.YellowstoneUGB_ROW3329155344_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.YellowstoneUGB_ROW3329155344_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-09-28T12:41:11.183122Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FosterCoveredBridge_ROW3714660823_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FosterCoveredBridge_ROW3714660823_UHD.jpg",
       "Description": ""
     }
   ]
