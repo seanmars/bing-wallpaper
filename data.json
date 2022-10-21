@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-10-21T06:38:26.8986137Z",
+  "LastFetchTime": "2022-10-21T12:45:53.9428019Z",
   "Today": {
-    "Date": "2022-10-20T12:47:06.9161501Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.SlothDay_ROW6985757514_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.SlothDay_ROW6985757514_UHD.jpg",
+    "Date": "2022-10-21T12:45:53.9304199Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.GeorgiaCypress_ROW6006648663_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.GeorgiaCypress_ROW6006648663_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3575,6 +3575,12 @@
       "Date": "2022-10-20T12:47:06.9161501Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.SlothDay_ROW6985757514_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.SlothDay_ROW6985757514_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-10-21T12:45:53.9304199Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.GeorgiaCypress_ROW6006648663_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.GeorgiaCypress_ROW6006648663_UHD.jpg",
       "Description": ""
     }
   ]
