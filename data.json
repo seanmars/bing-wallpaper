@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-10-28T06:25:21.3197327Z",
+  "LastFetchTime": "2022-10-28T12:42:21.9191523Z",
   "Today": {
-    "Date": "2022-10-27T12:43:27.3837413Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BridgeofSighs_ROW1127506026_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BridgeofSighs_ROW1127506026_UHD.jpg",
+    "Date": "2022-10-28T12:42:21.8610829Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FrankensteinFriday_ROW5110269997_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FrankensteinFriday_ROW5110269997_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3617,6 +3617,12 @@
       "Date": "2022-10-27T12:43:27.3837413Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BridgeofSighs_ROW1127506026_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BridgeofSighs_ROW1127506026_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-10-28T12:42:21.8610829Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FrankensteinFriday_ROW5110269997_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FrankensteinFriday_ROW5110269997_UHD.jpg",
       "Description": ""
     }
   ]
