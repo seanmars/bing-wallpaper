@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-11-01T06:30:13.2701431Z",
+  "LastFetchTime": "2022-11-01T12:45:23.8383277Z",
   "Today": {
-    "Date": "2022-10-31T12:41:44.9120854Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HohenzollernHechingen_ROW5987672369_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.HohenzollernHechingen_ROW5987672369_UHD.jpg",
+    "Date": "2022-11-01T12:45:23.752603Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Malo_ROW7340411209_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Malo_ROW7340411209_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3641,6 +3641,12 @@
       "Date": "2022-10-31T12:41:44.9120854Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.HohenzollernHechingen_ROW5987672369_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.HohenzollernHechingen_ROW5987672369_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-11-01T12:45:23.752603Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Malo_ROW7340411209_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Malo_ROW7340411209_UHD.jpg",
       "Description": ""
     }
   ]
