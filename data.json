@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-11-18T06:22:46.2027772Z",
+  "LastFetchTime": "2022-11-18T12:33:45.1313334Z",
   "Today": {
-    "Date": "2022-11-17T12:37:19.1140369Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ROW5959280809_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ROW5959280809_UHD.jpg",
+    "Date": "2022-11-18T12:33:45.1143885Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.IslamicArt_ROW7982515727_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.IslamicArt_ROW7982515727_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3749,6 +3749,12 @@
       "Date": "2022-11-17T12:37:19.1140369Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ROW5959280809_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ROW5959280809_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-11-18T12:33:45.1143885Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.IslamicArt_ROW7982515727_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.IslamicArt_ROW7982515727_UHD.jpg",
       "Description": ""
     }
   ]
