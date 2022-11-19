@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-11-19T06:21:16.8621234Z",
+  "LastFetchTime": "2022-11-19T12:31:00.6941459Z",
   "Today": {
-    "Date": "2022-11-18T12:33:45.1143885Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.IslamicArt_ROW7982515727_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.IslamicArt_ROW7982515727_UHD.jpg",
+    "Date": "2022-11-19T12:31:00.6722935Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ZNPVR_ROW8146107596_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ZNPVR_ROW8146107596_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3755,6 +3755,12 @@
       "Date": "2022-11-18T12:33:45.1143885Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.IslamicArt_ROW7982515727_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.IslamicArt_ROW7982515727_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-11-19T12:31:00.6722935Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ZNPVR_ROW8146107596_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ZNPVR_ROW8146107596_UHD.jpg",
       "Description": ""
     }
   ]
