@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-11-27T06:20:15.3202558Z",
+  "LastFetchTime": "2022-11-27T12:29:18.0141747Z",
   "Today": {
-    "Date": "2022-11-26T12:29:10.8141988Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.OliveTreeDay_ROW8155433683_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.OliveTreeDay_ROW8155433683_UHD.jpg",
+    "Date": "2022-11-27T12:29:18.0018565Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Cecropia_ROW3559671594_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Cecropia_ROW3559671594_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3803,6 +3803,12 @@
       "Date": "2022-11-26T12:29:10.8141988Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.OliveTreeDay_ROW8155433683_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.OliveTreeDay_ROW8155433683_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-11-27T12:29:18.0018565Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Cecropia_ROW3559671594_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Cecropia_ROW3559671594_UHD.jpg",
       "Description": ""
     }
   ]
