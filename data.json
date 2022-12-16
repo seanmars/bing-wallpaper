@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-12-16T06:19:07.0197219Z",
+  "LastFetchTime": "2022-12-16T12:27:15.4749838Z",
   "Today": {
-    "Date": "2022-12-16T01:13:01.7493779Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Borovets_EN-US3037571286_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg",
+    "Date": "2022-12-16T12:27:15.4476439Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ROW2694107896_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ROW2694107896_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3923,6 +3923,12 @@
       "Date": "2022-12-16T01:13:01.7493779Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Borovets_EN-US3037571286_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-12-16T12:27:15.4476439Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ROW2694107896_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ROW2694107896_UHD.jpg",
       "Description": ""
     }
   ]
