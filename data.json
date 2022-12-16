@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-12-15T18:17:54.9774424Z",
+  "LastFetchTime": "2022-12-16T01:13:01.7950851Z",
   "Today": {
-    "Date": "2022-12-15T12:30:29.997072Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Borovets_ROW0396725265_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Borovets_ROW0396725265_UHD.jpg",
+    "Date": "2022-12-16T01:13:01.7493779Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Borovets_EN-US3037571286_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3917,6 +3917,12 @@
       "Date": "2022-12-15T12:30:29.997072Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Borovets_ROW0396725265_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Borovets_ROW0396725265_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-12-16T01:13:01.7493779Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Borovets_EN-US3037571286_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg",
       "Description": ""
     }
   ]
