@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-12-26T06:19:25.3452818Z",
+  "LastFetchTime": "2022-12-26T12:27:40.8779954Z",
   "Today": {
-    "Date": "2022-12-25T12:26:28.1051288Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.WhistlerVillage_ROW0455840094_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.WhistlerVillage_ROW0455840094_UHD.jpg",
+    "Date": "2022-12-26T12:27:40.8616707Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BeverleyWestwood_ROW7698195421_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.BeverleyWestwood_ROW7698195421_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3983,6 +3983,12 @@
       "Date": "2022-12-25T12:26:28.1051288Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.WhistlerVillage_ROW0455840094_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.WhistlerVillage_ROW0455840094_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-12-26T12:27:40.8616707Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.BeverleyWestwood_ROW7698195421_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.BeverleyWestwood_ROW7698195421_UHD.jpg",
       "Description": ""
     }
   ]
