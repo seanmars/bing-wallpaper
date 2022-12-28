@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2022-12-28T06:19:10.0885944Z",
+  "LastFetchTime": "2022-12-28T12:27:44.8172053Z",
   "Today": {
-    "Date": "2022-12-27T12:28:00.1240622Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.BlueLagoon_ROW5452929965_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.BlueLagoon_ROW5452929965_UHD.jpg",
+    "Date": "2022-12-28T12:27:44.8042952Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.ChiesaBianca_ROW5712408387_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.ChiesaBianca_ROW5712408387_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -3995,6 +3995,12 @@
       "Date": "2022-12-27T12:28:00.1240622Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.BlueLagoon_ROW5452929965_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.BlueLagoon_ROW5452929965_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2022-12-28T12:27:44.8042952Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.ChiesaBianca_ROW5712408387_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.ChiesaBianca_ROW5712408387_UHD.jpg",
       "Description": ""
     }
   ]
