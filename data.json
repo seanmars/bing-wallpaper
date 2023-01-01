@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-01-01T06:18:15.3488741Z",
+  "LastFetchTime": "2023-01-01T12:27:26.8421871Z",
   "Today": {
-    "Date": "2022-12-31T12:25:55.5390831Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TheNationaDay_ROW8789453195_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.TheNationaDay_ROW8789453195_UHD.jpg",
+    "Date": "2023-01-01T12:27:26.8297866Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NorwayNYD_ROW8949601778_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.NorwayNYD_ROW8949601778_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4019,6 +4019,12 @@
       "Date": "2022-12-31T12:25:55.5390831Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.TheNationaDay_ROW8789453195_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.TheNationaDay_ROW8789453195_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-01-01T12:27:26.8297866Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.NorwayNYD_ROW8949601778_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.NorwayNYD_ROW8949601778_UHD.jpg",
       "Description": ""
     }
   ]
