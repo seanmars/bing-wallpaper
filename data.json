@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-01-02T06:19:14.4390252Z",
+  "LastFetchTime": "2023-01-02T12:28:43.4202867Z",
   "Today": {
-    "Date": "2023-01-01T12:27:26.8297866Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NorwayNYD_ROW8949601778_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.NorwayNYD_ROW8949601778_UHD.jpg",
+    "Date": "2023-01-02T12:28:43.4071596Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HohenzollernBurg_ROW9067487417_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.HohenzollernBurg_ROW9067487417_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4025,6 +4025,12 @@
       "Date": "2023-01-01T12:27:26.8297866Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.NorwayNYD_ROW8949601778_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.NorwayNYD_ROW8949601778_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-01-02T12:28:43.4071596Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.HohenzollernBurg_ROW9067487417_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.HohenzollernBurg_ROW9067487417_UHD.jpg",
       "Description": ""
     }
   ]
