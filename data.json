@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-01-16T06:20:09.9259279Z",
+  "LastFetchTime": "2023-01-16T12:31:01.2718797Z",
   "Today": {
-    "Date": "2023-01-15T12:26:55.852013Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Turku_ROW7276156978_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.Turku_ROW7276156978_UHD.jpg",
+    "Date": "2023-01-16T12:31:01.2593051Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ROW7240130280_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ROW7240130280_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4121,6 +4121,12 @@
       "Date": "2023-01-15T12:26:55.852013Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.Turku_ROW7276156978_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.Turku_ROW7276156978_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-01-16T12:31:01.2593051Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ROW7240130280_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ROW7240130280_UHD.jpg",
       "Description": ""
     }
   ]
