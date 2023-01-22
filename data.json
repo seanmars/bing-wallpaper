@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-01-21T18:17:20.9653308Z",
+  "LastFetchTime": "2023-01-22T01:20:18.8050736Z",
   "Today": {
-    "Date": "2023-01-21T12:26:45.1605591Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuggingKanga_ROW9402824184_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.HuggingKanga_ROW9402824184_UHD.jpg",
+    "Date": "2023-01-22T01:20:18.7808982Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4157,6 +4157,12 @@
       "Date": "2023-01-21T12:26:45.1605591Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuggingKanga_ROW9402824184_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.HuggingKanga_ROW9402824184_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-01-22T01:20:18.7808982Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg",
       "Description": ""
     }
   ]
