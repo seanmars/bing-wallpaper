@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-02-20T06:20:47.6590078Z",
+  "LastFetchTime": "2023-02-20T12:31:21.676066Z",
   "Today": {
-    "Date": "2023-02-19T12:28:34.7060466Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MauiWhale_ROW1029422995_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MauiWhale_ROW1029422995_UHD.jpg",
+    "Date": "2023-02-20T12:31:21.6628447Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.Itaimbezinho_ROW9209171352_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.Itaimbezinho_ROW9209171352_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4307,6 +4307,12 @@
       "Date": "2023-02-19T12:28:34.7060466Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MauiWhale_ROW1029422995_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MauiWhale_ROW1029422995_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-02-20T12:31:21.6628447Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.Itaimbezinho_ROW9209171352_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.Itaimbezinho_ROW9209171352_UHD.jpg",
       "Description": ""
     }
   ]
