@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-02-22T06:20:55.5256829Z",
+  "LastFetchTime": "2023-02-22T12:31:40.2177064Z",
   "Today": {
-    "Date": "2023-02-21T12:31:08.8972049Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MardiGrasNOLA_ROW0597869520_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.MardiGrasNOLA_ROW0597869520_UHD.jpg",
+    "Date": "2023-02-22T12:31:40.2055442Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ROW9546330928_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ROW9546330928_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4319,6 +4319,12 @@
       "Date": "2023-02-21T12:31:08.8972049Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.MardiGrasNOLA_ROW0597869520_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.MardiGrasNOLA_ROW0597869520_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-02-22T12:31:40.2055442Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ROW9546330928_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ROW9546330928_UHD.jpg",
       "Description": ""
     }
   ]
