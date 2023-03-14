@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-03-14T06:20:30.3988017Z",
+  "LastFetchTime": "2023-03-14T12:39:01.6804161Z",
   "Today": {
-    "Date": "2023-03-13T12:31:37.714967Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.LionessesNap_ROW4491204740_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.LionessesNap_ROW4491204740_UHD.jpg",
+    "Date": "2023-03-14T12:39:01.6673382Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.CyprusMaze_ROW4771087750_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.CyprusMaze_ROW4771087750_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4439,6 +4439,12 @@
       "Date": "2023-03-13T12:31:37.714967Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.LionessesNap_ROW4491204740_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.LionessesNap_ROW4491204740_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-03-14T12:39:01.6673382Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.CyprusMaze_ROW4771087750_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.CyprusMaze_ROW4771087750_UHD.jpg",
       "Description": ""
     }
   ]
