@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-03-28T06:19:27.1626471Z",
+  "LastFetchTime": "2023-03-28T12:30:44.2866864Z",
   "Today": {
-    "Date": "2023-03-27T13:33:34.940961Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NYCClouds_ROW9479364107_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.NYCClouds_ROW9479364107_UHD.jpg",
+    "Date": "2023-03-28T12:30:44.2740511Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.MWDolomites_ROW9549275755_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.MWDolomites_ROW9549275755_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4523,6 +4523,12 @@
       "Date": "2023-03-27T13:33:34.940961Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.NYCClouds_ROW9479364107_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.NYCClouds_ROW9479364107_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-03-28T12:30:44.2740511Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.MWDolomites_ROW9549275755_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.MWDolomites_ROW9549275755_UHD.jpg",
       "Description": ""
     }
   ]
