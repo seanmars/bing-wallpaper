@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-04-02T06:17:07.2765886Z",
+  "LastFetchTime": "2023-04-02T12:25:30.8047125Z",
   "Today": {
-    "Date": "2023-04-01T12:24:55.1621846Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.FrogMonth_ROW9751182121_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.FrogMonth_ROW9751182121_UHD.jpg",
+    "Date": "2023-04-02T12:25:30.7852392Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.JavaBromo_ROW4373967906_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.JavaBromo_ROW4373967906_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4553,6 +4553,12 @@
       "Date": "2023-04-01T12:24:55.1621846Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.FrogMonth_ROW9751182121_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.FrogMonth_ROW9751182121_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-04-02T12:25:30.7852392Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.JavaBromo_ROW4373967906_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.JavaBromo_ROW4373967906_UHD.jpg",
       "Description": ""
     }
   ]
