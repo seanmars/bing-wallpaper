@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-04-15T06:17:16.4649549Z",
+  "LastFetchTime": "2023-04-15T12:25:18.5860178Z",
   "Today": {
-    "Date": "2023-04-14T12:27:17.797672Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedSeaStars_ROW7002802337_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.RedSeaStars_ROW7002802337_UHD.jpg",
+    "Date": "2023-04-15T12:25:18.5734013Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NahargarhFort_ROW1740335378_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.NahargarhFort_ROW1740335378_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4631,6 +4631,12 @@
       "Date": "2023-04-14T12:27:17.797672Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.RedSeaStars_ROW7002802337_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.RedSeaStars_ROW7002802337_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-04-15T12:25:18.5734013Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.NahargarhFort_ROW1740335378_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.NahargarhFort_ROW1740335378_UHD.jpg",
       "Description": ""
     }
   ]
