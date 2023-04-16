@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-04-16T06:17:32.7881452Z",
+  "LastFetchTime": "2023-04-16T12:25:36.0444766Z",
   "Today": {
-    "Date": "2023-04-15T12:25:18.5734013Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.NahargarhFort_ROW1740335378_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.NahargarhFort_ROW1740335378_UHD.jpg",
+    "Date": "2023-04-16T12:25:36.0225103Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.KiteDay_ROW1884773634_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.KiteDay_ROW1884773634_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4637,6 +4637,12 @@
       "Date": "2023-04-15T12:25:18.5734013Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.NahargarhFort_ROW1740335378_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.NahargarhFort_ROW1740335378_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-04-16T12:25:36.0225103Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.KiteDay_ROW1884773634_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.KiteDay_ROW1884773634_UHD.jpg",
       "Description": ""
     }
   ]
