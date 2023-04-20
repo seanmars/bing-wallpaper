@@ -1,9 +1,9 @@
 {
-  "LastFetchTime": "2023-04-20T06:18:52.6380025Z",
+  "LastFetchTime": "2023-04-20T12:27:38.1773377Z",
   "Today": {
-    "Date": "2023-04-19T12:27:55.8227917Z",
-    "UrlForOrigin": "https://www.bing.com/th?id=OHR.TaiwanYuhina_ROW4532910071_1920x1080.jpg",
-    "UrlFor4K": "https://www.bing.com/th?id=OHR.TaiwanYuhina_ROW4532910071_UHD.jpg",
+    "Date": "2023-04-20T12:27:38.1643093Z",
+    "UrlForOrigin": "https://www.bing.com/th?id=OHR.AnjunaBeachGoa_ROW7649308994_1920x1080.jpg",
+    "UrlFor4K": "https://www.bing.com/th?id=OHR.AnjunaBeachGoa_ROW7649308994_UHD.jpg",
     "Description": ""
   },
   "Images": [
@@ -4661,6 +4661,12 @@
       "Date": "2023-04-19T12:27:55.8227917Z",
       "UrlForOrigin": "https://www.bing.com/th?id=OHR.TaiwanYuhina_ROW4532910071_1920x1080.jpg",
       "UrlFor4K": "https://www.bing.com/th?id=OHR.TaiwanYuhina_ROW4532910071_UHD.jpg",
+      "Description": ""
+    },
+    {
+      "Date": "2023-04-20T12:27:38.1643093Z",
+      "UrlForOrigin": "https://www.bing.com/th?id=OHR.AnjunaBeachGoa_ROW7649308994_1920x1080.jpg",
+      "UrlFor4K": "https://www.bing.com/th?id=OHR.AnjunaBeachGoa_ROW7649308994_UHD.jpg",
       "Description": ""
     }
   ]
